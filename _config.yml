@@ -13,10 +13,10 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  jueves_de_mesa:
     name: jueves_de_mesa
     display_name: Jueves de mesa
-    gravatar: False
+    avatar: 'assets/images/blog/users/juegos_de_mesa.png'
     email: juevesdemesa.mail@gmail.com
     web: https://www.juevesdemesa.com
     twitter: https://twitter.com/jueves_de_mesa
