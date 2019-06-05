@@ -1,25 +1,25 @@
 # Site
-name: "Jueves de mesa"
-title: "Jueves de mesa"
+name: "Juernes de mesa"
+title: "Juernes de mesa"
 description: "Grupo de juegos de mesa"
 logo: 'assets/images/blog/logo.png'
 favicon: 'assets/images/blog/favicon.ico'
 baseurl: 
 google_analytics: 'UA-141504673-1'
-disqus: 'juevesdemesa'
+disqus: 'juernesdemesa'
 mailchimp-list: False
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  jueves_de_mesa:
-    name: jueves_de_mesa
-    display_name: Jueves de mesa
-    avatar: 'assets/images/blog/users/juegos_de_mesa.png'
-    email: juevesdemesa.mail@gmail.com
-    web: https://www.juevesdemesa.com
-    twitter: https://twitter.com/jueves_de_mesa
+  juernesdemesa:
+    name: juernesdemesa
+    display_name: Juernes de mesa
+    avatar: 'assets/images/blog/users/juernesdemesa.png'
+    email: juernesdemesa@gmail.com
+    web: https://www.juernesdemesa.com
+    twitter: https://twitter.com/juernesdemesa
     description: "Grupo de juegos de mesa"
 
 # Plugins
