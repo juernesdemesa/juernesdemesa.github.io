@@ -1,0 +1,63 @@
+# Site
+name: "Jueves de mesa"
+title: "Jueves de mesa"
+description: "Grupo de juegos de mesa"
+logo: 'assets/images/blog/logo.png'
+favicon: 'assets/images/blog/favicon.ico'
+baseurl: 
+google_analytics: 'UA-141504673-1'
+disqus: 'juevesdemesa'
+mailchimp-list: False
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  sal:
+    name: jueves_de_mesa
+    display_name: Jueves de mesa
+    gravatar: False
+    email: juevesdemesa.mail@gmail.com
+    web: https://www.juevesdemesa.com
+    twitter: https://twitter.com/jueves_de_mesa
+    description: "Grupo de juegos de mesa"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: False
+adsense-data-ad-slot: False
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
