@@ -206,6 +206,7 @@ section.recent-posts {
     margin-bottom: 5px;
     margin-top: 5px;
     font-size: 0.95rem;
+    color: rgba(0, 0, 0, .44);
 }
 
 .toc ul {
@@ -304,10 +305,6 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-.mainheading h1.sitetitle {
-    font-family: Righteous;
-}
-
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
@@ -330,7 +327,6 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Merriweather;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);

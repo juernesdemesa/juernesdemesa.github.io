@@ -1,9 +1,30 @@
-# Mediumish - Jekyll Theme
+# Juernes de mesa
+
+## Getting started
+
+### Launch in localhost
+
+1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
+
+2. Install Jekyll and bundler gems
+
+`gem install jekyll bundler`
+
+3. Run `bundle install` to install missing gems.
+
+4. Build the site and make it available on a local server
+
+`bundle exec jekyll serve -d _site`
+
+5. Now browse to http://localhost:4000
+
+**Note:** you can build the site with draft using `--draft`. 
+
+`bundle exec jekyll serve --draft -d _site`
+
+## Mediumish - Jekyll Theme
 
 [Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![mediumish](assets/images/mediumish-jekyll-template.png)
-
 
 ### Copyright
 
