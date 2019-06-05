@@ -5,11 +5,60 @@
 
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
-	display:inline;
+  display: inline;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax",
-    "starsnonscss"
-;
+@import "syntax", "starsnonscss";
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 240px;
+  height: 360px;
+  margin: 10px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-container {
+  padding: 2px 16px;
+  width: 240px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+.card > img {
+  border-radius: 5px 5px 0 0;
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.game-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-buttons {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-button {
+  width: 50px;
+  height: 50px;
+}

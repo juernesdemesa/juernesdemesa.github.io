@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Stone Age",
+        "image": "/assets/images/pages/tops/stone-age.jpg",
+        "review": "https://www.youtube.com/watch?v=xOMLxecYr6U",
+        "bgg": "https://boardgamegeek.com/boardgame/34635/stone-age",
+        "buy": false,
+        "tier": 0
+    },
+    {
+        "name": "Catch the Moon",
+        "image": "/assets/images/pages/tops/catch-the-moon.jpg",
+        "review": "https://www.youtube.com/watch?v=iSblTYNWeNs",
+        "bgg": "https://boardgamegeek.com/boardgame/218129/catch-moon",
+        "buy": false,
+        "tier": 3
+    },
+    {
+        "name": "Cytosis",
+        "image": "/assets/images/pages/tops/cytosis.jpg",
+        "review": "https://www.youtube.com/watch?v=Zfc5H_aZadg",
+        "bgg": "https://boardgamegeek.com/boardgame/202977/cytosis-cell-biology-board-game",
+        "buy": false,
+        "tier": 1
+    },
+    {
+        "name": "Hero Realms",
+        "image": "/assets/images/pages/tops/hero-realms.jpg",
+        "review": "https://www.youtube.com/watch?v=wLvNx9cXivc",
+        "bgg": "https://boardgamegeek.com/boardgame/198994/hero-realms",
+        "buy": false,
+        "tier": 1
+    },
+    {
+        "name": "Junk Art",
+        "image": "/assets/images/pages/tops/junk-art.jpg",
+        "review": "https://www.youtube.com/watch?v=NQJgLwoYKw8",
+        "bgg": "https://boardgamegeek.com/boardgame/193042/junk-art",
+        "buy": false,
+        "tier": 1
+    },
+    {
+        "name": "KeyForge",
+        "image": "/assets/images/pages/tops/keyforge.jpg",
+        "review": "https://www.youtube.com/watch?v=e72sDhkhkRU",
+        "bgg": "https://boardgamegeek.com/boardgameexpansion/257606/keyforge-call-archons-archon-deck",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Mysterium",
+        "image": "/assets/images/pages/tops/mysterium.jpg",
+        "review": "https://www.youtube.com/watch?v=o-GK91HfCMo",
+        "bgg": "https://boardgamegeek.com/boardgame/181304/mysterium",
+        "buy": false,
+        "tier": 1
+    },
+    {
+        "name": "Oh my goods!",
+        "image": "/assets/images/pages/tops/oh-my-goods.jpg",
+        "review": "https://www.youtube.com/watch?v=dIWyPDhqHk4",
+        "bgg": "https://boardgamegeek.com/boardgame/183840/oh-my-goods",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Potion Explosion",
+        "image": "/assets/images/pages/tops/potion-explosion.jpg",
+        "review": "https://www.youtube.com/watch?v=X9b-kD3aLvA",
+        "bgg": "https://boardgamegeek.com/boardgame/180974/potion-explosion",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Clank!",
+        "image": "/assets/images/pages/tops/clank.jpg",
+        "review": "https://www.youtube.com/watch?v=dm81KFe7Udw",
+        "bgg": "https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure",
+        "buy": false,
+        "tier": 0
+    },
+    {
+        "name": "Pandemic",
+        "image": "/assets/images/pages/tops/pandemic.jpg",
+        "review": "https://www.youtube.com/watch?v=5QZz45Uc_Uc",
+        "bgg": "https://boardgamegeek.com/boardgame/30549/pandemic",
+        "buy": false,
+        "tier": 0
+    },
+    {
+        "name": "The Island",
+        "image": "/assets/images/pages/tops/the-island.jpg",
+        "review": "https://www.youtube.com/watch?v=g_crDl7ipZQ",
+        "bgg": "https://boardgamegeek.com/boardgame/2653/survive-escape-atlantis",
+        "buy": false,
+        "tier": 0
+    }
+]
