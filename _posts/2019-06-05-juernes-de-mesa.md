@@ -6,7 +6,7 @@ categories: [ General ]
 tags: [general]
 image: assets/images/posts/2019-06-05-juernes-de-mesa/header.png
 description: "Post de presentación del grupo de juegos de mesa 'Juernes de mesa'"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
