@@ -6,7 +6,7 @@ categories: [ General ]
 tags: [general]
 image: assets/images/posts/2019-06-05-juernes-de-mesa/header.png
 description: "Post de presentación del grupo de juegos de mesa 'Juernes de mesa'"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
@@ -19,4 +19,4 @@ Nos podéis seguir en [Twitter](https://twitter.com/juernesdemesa) y en [Instagr
 
 ## Ludoteca
 
-Podéis visitar nuesta [Ludoteca](/ludoteca) con los juegos que hemos jugado en las diferentes quedadas.
+Podéis visitar nuestra [Ludoteca](/ludoteca) con los juegos que hemos jugado en las diferentes quedadas.
