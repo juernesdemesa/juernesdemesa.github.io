@@ -94,5 +94,13 @@
         "bgg": "https://boardgamegeek.com/boardgame/2653/survive-escape-atlantis",
         "buy": false,
         "tier": 0
+    },
+    {
+        "name": "Exit: El laboratorio secreto",
+        "image": "/assets/images/pages/tops/exit-laboratorio.jpg",
+        "review": "https://www.youtube.com/watch?v=GSD2xMxYbwY",
+        "bgg": "https://boardgamegeek.com/boardgame/203417/exit-game-secret-lab",
+        "buy": false,
+        "tier": 3
     }
 ]
