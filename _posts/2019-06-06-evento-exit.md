@@ -6,7 +6,7 @@ categories: [ Evento ]
 tags: [exit, devir, evento]
 image: assets/images/posts/2019-06-06-evento-exit/header.jpg
 description: "Evento - Exit: El laboratorio secreto'"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
