@@ -101,6 +101,54 @@
         "review": "https://www.youtube.com/watch?v=GSD2xMxYbwY",
         "bgg": "https://boardgamegeek.com/boardgame/203417/exit-game-secret-lab",
         "buy": false,
-        "tier": 3
+        "tier": 2
+    },
+    {
+        "name": "Dixit: Odyssey",
+        "image": "/assets/images/pages/tops/dixit-odyssey.jpg",
+        "review": "https://www.youtube.com/watch?v=mrLq3DBKQwo",
+        "bgg": "https://www.boardgamegeek.com/boardgame/92828/dixit-odyssey",
+        "buy": false,
+        "tier": 1
+    },
+    {
+        "name": "Insider",
+        "image": "/assets/images/pages/tops/insider.jpg",
+        "review": "https://www.youtube.com/watch?v=l_0AtFGEAjA",
+        "bgg": "https://www.boardgamegeek.com/boardgame/206051/insider",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Código secreto",
+        "image": "/assets/images/pages/tops/codenames.jpg",
+        "review": "https://www.youtube.com/watch?v=Jjb9vCsVkA0",
+        "bgg": "https://www.boardgamegeek.com/boardgame/178900/codenames",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Sospechosos inhabituales",
+        "image": "/assets/images/pages/tops/sospechosos.png",
+        "review": "https://www.youtube.com/watch?v=rrWL1MsuSh8",
+        "bgg": "https://www.boardgamegeek.com/boardgame/178570/unusual-suspects",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Munchkin",
+        "image": "/assets/images/pages/tops/munchkin.jpg",
+        "review": "https://www.youtube.com/watch?v=n6UIvoGVhAI",
+        "bgg": "https://www.boardgamegeek.com/boardgame/1927/munchkin",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Espace Room: The Game II",
+        "image": "/assets/images/pages/tops/escape-room.jpg",
+        "review": "https://www.youtube.com/watch?v=XY9T-MUz4pc",
+        "bgg": "https://www.boardgamegeek.com/boardgame/260000/escape-room-game-escape-rooms-ii",
+        "buy": false,
+        "tier": 2
     }
 ]
