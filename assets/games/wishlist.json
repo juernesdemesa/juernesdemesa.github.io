@@ -16,19 +16,11 @@
         "tier": 0
     },
     {
-        "name": "Primera clase",
-        "image": "/assets/images/pages/tops/primera-clase.jpg",
-        "review": "https://www.youtube.com/watch?v=kwbQf74ssxo",
-        "bgg": "https://boardgamegeek.com/boardgame/206941/first-class-all-aboard-orient-express",
-        "buy": false,
-        "tier": 3
-    },
-    {
         "name": "Agricola",
         "image": "/assets/images/pages/tops/agricola.jpg",
         "review": "https://www.youtube.com/watch?v=azoOOsz7FLw",
         "bgg": "https://boardgamegeek.com/boardgame/31260/agricola",
         "buy": false,
-        "tier": 0
+        "tier": 2
     }
 ]

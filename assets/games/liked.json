@@ -1,0 +1,50 @@
+[
+    {
+        "name": "7 Wonders Duels",
+        "image": "/assets/images/pages/tops/7-wonders.jpg",
+        "review": "https://www.youtube.com/watch?v=LPNY_IqBkX0",
+        "bgg": "https://boardgamegeek.com/boardgame/173346/7-wonders-duel",
+        "buy": false,
+        "tier": 1
+    },
+    {
+        "name": "Primera clase",
+        "image": "/assets/images/pages/tops/primera-clase.jpg",
+        "review": "https://www.youtube.com/watch?v=kwbQf74ssxo",
+        "bgg": "https://boardgamegeek.com/boardgame/206941/first-class-all-aboard-orient-express",
+        "buy": false,
+        "tier": 3
+    },
+    {
+        "name": "Orléans",
+        "image": "/assets/images/pages/tops/orleans.jpg",
+        "review": "https://www.youtube.com/watch?v=6WJT6f0O4II",
+        "bgg": "https://boardgamegeek.com/boardgame/164928/orleans",
+        "buy": false,
+        "tier": 4
+    },
+    {
+        "name": "Tzolk'in",
+        "image": "/assets/images/pages/tops/tzolkin.jpg",
+        "review": "https://www.youtube.com/watch?v=0d9myQs8B_U",
+        "bgg": "https://boardgamegeek.com/boardgame/126163/tzolk-mayan-calendar",
+        "buy": false,
+        "tier": 4
+    },
+    {
+        "name": "Wingspan",
+        "image": "/assets/images/pages/tops/wingspan.jpg",
+        "review": "https://www.youtube.com/watch?v=tHLcJdYUWBM",
+        "bgg": "https://boardgamegeek.com/boardgame/266192/wingspan",
+        "buy": false,
+        "tier": 0
+    },
+    {
+        "name": "Patchwork",
+        "image": "/assets/images/pages/tops/patchwork.png",
+        "review": "https://www.youtube.com/watch?v=rGBh4H9pIng",
+        "bgg": "https://boardgamegeek.com/boardgame/163412/patchwork",
+        "buy": false,
+        "tier": 0
+    }
+]
