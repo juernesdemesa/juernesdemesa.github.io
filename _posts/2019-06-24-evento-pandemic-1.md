@@ -11,7 +11,7 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 27 de junio, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar al **Pandemic**. Pronto, tendréis una reseña en el blog para conocerlo un poco y aprender a jugar.
+¡Hola Juerneros! El próximo jueves 27 de junio, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar al **Pandemic**. Tenéis una [reseña](/conociendo-pandemic) en el blog para conocerlo un poco y aprender a jugar.
 
 ## Datos generales
 
