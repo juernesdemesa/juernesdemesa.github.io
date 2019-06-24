@@ -8,7 +8,7 @@ image: assets/images/posts/2019-06-14-conociendo-clank/header.jpg
 description: "Conociendo Clank!"
 featured: False
 hidden: False
-rating: False
+rating: 4
 ---
 
 ¡Hola Juerneros! El otro día conocimos [Stone Age](/conociendo-stone-age), que se basa en una mecánica de *colocación de trabajadores*. Hoy vamos a ver otra mecánica que me gusta mucho: **deck building**.
