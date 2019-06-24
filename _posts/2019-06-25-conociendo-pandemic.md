@@ -8,7 +8,7 @@ image: assets/images/posts/2019-06-25-conociendo-pandemic/header.jpg
 description: "Conociendo Pandemic"
 featured: False
 hidden: False
-rating: False
+rating: 3
 ---
 
 ¡Hola Juerneros! Hoy vamos a conocer un juego cooperativo en el que tendremos que salvar el mundo de 4 virus que amenazan a la humanidad.
