@@ -5,7 +5,7 @@
         "review": "https://www.youtube.com/watch?v=LPNY_IqBkX0",
         "bgg": "https://boardgamegeek.com/boardgame/173346/7-wonders-duel",
         "buy": false,
-        "tier": 1
+        "tier": 3
     },
     {
         "name": "Primera clase",
@@ -46,5 +46,45 @@
         "bgg": "https://boardgamegeek.com/boardgame/163412/patchwork",
         "buy": false,
         "tier": 0
+    },
+    {
+        "name": "Welcome hacia el perfecto hogar",
+        "image": "/assets/images/pages/tops/welcome.jpg",
+        "review": "https://www.youtube.com/watch?v=3bjutMEOQ8I",
+        "bgg": "https://boardgamegeek.com/boardgame/233867/welcome",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Fantasy Realms",
+        "image": "/assets/images/pages/tops/fantasy.jpg",
+        "review": "https://www.youtube.com/watch?v=j0QQVoYAD_c",
+        "bgg": "https://boardgamegeek.com/boardgame/223040/fantasy-realms",
+        "buy": false,
+        "tier": 1
+    },
+    {
+        "name": "Red7",
+        "image": "/assets/images/pages/tops/red7.jpg",
+        "review": "https://www.youtube.com/watch?v=ypJl0gLiEjw",
+        "bgg": "https://boardgamegeek.com/boardgame/161417/red7",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Corinth",
+        "image": "/assets/images/pages/tops/corinth.jpg",
+        "review": "https://www.youtube.com/watch?v=8Cv4noPPCDc",
+        "bgg": "https://boardgamegeek.com/boardgame/269725/corinth",
+        "buy": false,
+        "tier": 4
+    },
+    {
+        "name": "CuBirds",
+        "image": "/assets/images/pages/tops/cubird.jpg",
+        "review": "https://www.youtube.com/watch?v=xM3azpiNUis",
+        "bgg": "https://boardgamegeek.com/boardgame/245476/cubirds",
+        "buy": false,
+        "tier": 4
     }
 ]
