@@ -22,5 +22,21 @@
         "bgg": "https://boardgamegeek.com/boardgame/31260/agricola",
         "buy": false,
         "tier": 2
+    },
+    {
+        "name": "Viticulture Essential Edition",
+        "image": "/assets/images/pages/tops/viniculture.jpg",
+        "review": "https://www.youtube.com/watch?v=UlpIzDIF2Ys",
+        "bgg": "https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition",
+        "buy": false,
+        "tier": 1
+    },
+    {
+        "name": "Escape Tales El Despertar",
+        "image": "/assets/images/pages/tops/escape_tales.jpg",
+        "review": "https://www.youtube.com/watch?v=ln4f2IzAiw8",
+        "bgg": "https://boardgamegeek.com/boardgame/253214/escape-tales-awakening",
+        "buy": false,
+        "tier": 3
     }
 ]
