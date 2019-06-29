@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evento (27/06/2019) - Pandemic"
+title:  "Evento (04/07/2019) - Pandemic"
 author: juernesdemesa
 categories: [ Juernes de Mesa ]
 tags: [pandemic, zmangames, juernesdemesa]
@@ -11,11 +11,11 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 27 de junio, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar al **Pandemic**. Tenéis una [reseña](/conociendo-pandemic) en el blog para conocerlo un poco y aprender a jugar.
+¡Hola Juerneros! El próximo jueves 4 de julio, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar al **Pandemic**. Tenéis una [reseña](/conociendo-pandemic) en el blog para conocerlo un poco y aprender a jugar.
 
 ## Datos generales
 
-* **Fecha:** 27 de junio de 2019 - 18:30
+* **Fecha:** 4 de julio de 2019 - 18:30
 * **Lugar:** 🌕 [Júpiter Juegos Central](https://www.jupiterjuegos.com/tiendas/) 
 * **Juego:** Pandemic
 * **Jugadores:** 2-4
