@@ -1,29 +1,5 @@
 [
     {
-        "name": "7 Wonders Duels",
-        "image": "/assets/images/pages/tops/7-wonders.jpg",
-        "review": "https://www.youtube.com/watch?v=LPNY_IqBkX0",
-        "bgg": "https://boardgamegeek.com/boardgame/173346/7-wonders-duel",
-        "buy": false,
-        "tier": 3
-    },
-    {
-        "name": "Primera clase",
-        "image": "/assets/images/pages/tops/primera-clase.jpg",
-        "review": "https://www.youtube.com/watch?v=kwbQf74ssxo",
-        "bgg": "https://boardgamegeek.com/boardgame/206941/first-class-all-aboard-orient-express",
-        "buy": false,
-        "tier": 3
-    },
-    {
-        "name": "Orléans",
-        "image": "/assets/images/pages/tops/orleans.jpg",
-        "review": "https://www.youtube.com/watch?v=6WJT6f0O4II",
-        "bgg": "https://boardgamegeek.com/boardgame/164928/orleans",
-        "buy": false,
-        "tier": 4
-    },
-    {
         "name": "Tzolk'in",
         "image": "/assets/images/pages/tops/tzolkin.jpg",
         "review": "https://www.youtube.com/watch?v=0d9myQs8B_U",
@@ -40,14 +16,6 @@
         "tier": 0
     },
     {
-        "name": "Patchwork",
-        "image": "/assets/images/pages/tops/patchwork.png",
-        "review": "https://www.youtube.com/watch?v=rGBh4H9pIng",
-        "bgg": "https://boardgamegeek.com/boardgame/163412/patchwork",
-        "buy": false,
-        "tier": 0
-    },
-    {
         "name": "Welcome hacia el perfecto hogar",
         "image": "/assets/images/pages/tops/welcome.jpg",
         "review": "https://www.youtube.com/watch?v=3bjutMEOQ8I",
@@ -56,35 +24,27 @@
         "tier": 2
     },
     {
-        "name": "Fantasy Realms",
-        "image": "/assets/images/pages/tops/fantasy.jpg",
-        "review": "https://www.youtube.com/watch?v=j0QQVoYAD_c",
-        "bgg": "https://boardgamegeek.com/boardgame/223040/fantasy-realms",
+        "name": "Men at work",
+        "image": "/assets/images/pages/tops/men-at-work.jpg",
+        "review": "https://www.youtube.com/watch?v=b7p1FOdidPs",
+        "bgg": "https://boardgamegeek.com/boardgame/261114/men-work",
         "buy": false,
         "tier": 1
     },
     {
-        "name": "Red7",
-        "image": "/assets/images/pages/tops/red7.jpg",
-        "review": "https://www.youtube.com/watch?v=ypJl0gLiEjw",
-        "bgg": "https://boardgamegeek.com/boardgame/161417/red7",
+        "name": "Tikal",
+        "image": "/assets/images/pages/tops/tikal.jpg",
+        "review": "https://www.youtube.com/watch?v=TuBU5-KzAys",
+        "bgg": "https://boardgamegeek.com/boardgame/54/tikal",
         "buy": false,
-        "tier": 2
+        "tier": 1
     },
     {
-        "name": "Corinth",
-        "image": "/assets/images/pages/tops/corinth.jpg",
-        "review": "https://www.youtube.com/watch?v=8Cv4noPPCDc",
-        "bgg": "https://boardgamegeek.com/boardgame/269725/corinth",
+        "name": "Arquitectos del reino del oeste",
+        "image": "/assets/images/pages/tops/arquitectos.jpg",
+        "review": "https://www.youtube.com/watch?v=vEbI1Tzic4M",
+        "bgg": "https://boardgamegeek.com/boardgame/236457/architects-west-kingdom",
         "buy": false,
-        "tier": 4
-    },
-    {
-        "name": "CuBirds",
-        "image": "/assets/images/pages/tops/cubird.jpg",
-        "review": "https://www.youtube.com/watch?v=xM3azpiNUis",
-        "bgg": "https://boardgamegeek.com/boardgame/245476/cubirds",
-        "buy": false,
-        "tier": 4
+        "tier": 1
     }
 ]

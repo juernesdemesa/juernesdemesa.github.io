@@ -150,5 +150,21 @@
         "bgg": "https://www.boardgamegeek.com/boardgame/260000/escape-room-game-escape-rooms-ii",
         "buy": false,
         "tier": 2
+    },
+    {
+        "name": "Patchwork",
+        "image": "/assets/images/pages/tops/patchwork.png",
+        "review": "https://www.youtube.com/watch?v=rGBh4H9pIng",
+        "bgg": "https://boardgamegeek.com/boardgame/163412/patchwork",
+        "buy": false,
+        "tier": 0
+    },
+    {
+        "name": "Fantasy Realms",
+        "image": "/assets/images/pages/tops/fantasy.jpg",
+        "review": "https://www.youtube.com/watch?v=j0QQVoYAD_c",
+        "bgg": "https://boardgamegeek.com/boardgame/223040/fantasy-realms",
+        "buy": false,
+        "tier": 1
     }
 ]
