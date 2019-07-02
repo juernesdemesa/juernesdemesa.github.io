@@ -1,0 +1,50 @@
+[
+    {
+        "name": "7 Wonders Duels",
+        "image": "/assets/images/pages/tops/7-wonders.jpg",
+        "review": "https://www.youtube.com/watch?v=LPNY_IqBkX0",
+        "bgg": "https://boardgamegeek.com/boardgame/173346/7-wonders-duel",
+        "buy": false,
+        "tier": 3
+    },
+    {
+        "name": "Primera clase",
+        "image": "/assets/images/pages/tops/primera-clase.jpg",
+        "review": "https://www.youtube.com/watch?v=kwbQf74ssxo",
+        "bgg": "https://boardgamegeek.com/boardgame/206941/first-class-all-aboard-orient-express",
+        "buy": false,
+        "tier": 3
+    },
+    {
+        "name": "Orléans",
+        "image": "/assets/images/pages/tops/orleans.jpg",
+        "review": "https://www.youtube.com/watch?v=6WJT6f0O4II",
+        "bgg": "https://boardgamegeek.com/boardgame/164928/orleans",
+        "buy": false,
+        "tier": 4
+    },
+    {
+        "name": "Red7",
+        "image": "/assets/images/pages/tops/red7.jpg",
+        "review": "https://www.youtube.com/watch?v=ypJl0gLiEjw",
+        "bgg": "https://boardgamegeek.com/boardgame/161417/red7",
+        "buy": false,
+        "tier": 2
+    },
+    {
+        "name": "Corinth",
+        "image": "/assets/images/pages/tops/corinth.jpg",
+        "review": "https://www.youtube.com/watch?v=8Cv4noPPCDc",
+        "bgg": "https://boardgamegeek.com/boardgame/269725/corinth",
+        "buy": false,
+        "tier": 4
+    },
+    {
+        "name": "CuBirds",
+        "image": "/assets/images/pages/tops/cubird.jpg",
+        "review": "https://www.youtube.com/watch?v=xM3azpiNUis",
+        "bgg": "https://boardgamegeek.com/boardgame/245476/cubirds",
+        "buy": false,
+        "tier": 4
+    }
+]

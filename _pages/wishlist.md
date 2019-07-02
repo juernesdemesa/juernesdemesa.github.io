@@ -14,3 +14,7 @@ comments: false
 ## Me gustan
 
 <script>printGames("../assets/games/liked.json")</script>
+
+## En el radar
+
+<script>printGames("../assets/games/radar.json")</script>
