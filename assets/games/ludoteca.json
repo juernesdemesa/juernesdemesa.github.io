@@ -166,5 +166,13 @@
         "bgg": "https://boardgamegeek.com/boardgame/223040/fantasy-realms",
         "buy": false,
         "tier": 1
+    },
+    {
+        "name": "Azul",
+        "image": "/assets/images/pages/tops/azul.jpg",
+        "review": "https://www.youtube.com/watch?v=j1DlqFPqZMY",
+        "bgg": "https://boardgamegeek.com/boardgame/230802/azul",
+        "buy": false,
+        "tier": 0
     }
 ]

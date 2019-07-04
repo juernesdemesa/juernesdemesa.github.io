@@ -1,21 +1,5 @@
 [
     {
-        "name": "Azul",
-        "image": "/assets/images/pages/tops/azul.jpg",
-        "review": "https://www.youtube.com/watch?v=j1DlqFPqZMY",
-        "bgg": "https://boardgamegeek.com/boardgame/230802/azul",
-        "buy": false,
-        "tier": 0
-    },
-    {
-        "name": "Los viajes de Marco Polo",
-        "image": "/assets/images/pages/tops/marco-polo.jpg",
-        "review": "https://www.youtube.com/watch?v=tGZpxqvfoEU",
-        "bgg": "https://boardgamegeek.com/boardgame/171623/voyages-marco-polo",
-        "buy": false,
-        "tier": 0
-    },
-    {
         "name": "Agricola",
         "image": "/assets/images/pages/tops/agricola.jpg",
         "review": "https://www.youtube.com/watch?v=azoOOsz7FLw",
@@ -32,11 +16,11 @@
         "tier": 1
     },
     {
-        "name": "Escape Tales El Despertar",
-        "image": "/assets/images/pages/tops/escape_tales.jpg",
-        "review": "https://www.youtube.com/watch?v=ln4f2IzAiw8",
-        "bgg": "https://boardgamegeek.com/boardgame/253214/escape-tales-awakening",
+        "name": "Los Castillos de Borgoña",
+        "image": "/assets/images/pages/tops/borgonya.jpg",
+        "review": "https://www.youtube.com/watch?v=F6Y5mhrIb5A",
+        "bgg": "https://boardgamegeek.com/boardgame/84876/castles-burgundy",
         "buy": false,
-        "tier": 3
+        "tier": 1
     }
 ]
