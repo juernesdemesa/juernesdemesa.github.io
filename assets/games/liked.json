@@ -46,5 +46,21 @@
         "bgg": "https://boardgamegeek.com/boardgame/236457/architects-west-kingdom",
         "buy": false,
         "tier": 1
+    },
+    {
+        "name": "Los viajes de Marco Polo",
+        "image": "/assets/images/pages/tops/marco-polo.jpg",
+        "review": "https://www.youtube.com/watch?v=tGZpxqvfoEU",
+        "bgg": "https://boardgamegeek.com/boardgame/171623/voyages-marco-polo",
+        "buy": false,
+        "tier": 0
+    },
+    {
+        "name": "Escape Tales El Despertar",
+        "image": "/assets/images/pages/tops/escape_tales.jpg",
+        "review": "https://www.youtube.com/watch?v=ln4f2IzAiw8",
+        "bgg": "https://boardgamegeek.com/boardgame/253214/escape-tales-awakening",
+        "buy": false,
+        "tier": 3
     }
 ]

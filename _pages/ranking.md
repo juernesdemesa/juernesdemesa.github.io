@@ -15,3 +15,11 @@ comments: false
 | - | Sara |     0     |
 | - | Elena  |     0     |
 | - | Gallardo |     0     |
+
+
+
+## Ranking de juegos cooperativos
+
+| # | Juego | Victorias |Derrotas |
+|:--:|:------|:---------:|:---------:|
+| 1 | Pandemic  |     0     | 2 |
