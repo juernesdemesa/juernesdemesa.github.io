@@ -40,11 +40,11 @@
         "tier": 4
     },
     {
-        "name": "CuBirds",
-        "image": "/assets/images/pages/tops/cubird.jpg",
-        "review": "https://www.youtube.com/watch?v=xM3azpiNUis",
-        "bgg": "https://boardgamegeek.com/boardgame/245476/cubirds",
+        "name": "Arquitectos del reino del oeste",
+        "image": "/assets/images/pages/tops/arquitectos.jpg",
+        "review": "https://www.youtube.com/watch?v=vEbI1Tzic4M",
+        "bgg": "https://boardgamegeek.com/boardgame/236457/architects-west-kingdom",
         "buy": false,
-        "tier": 4
+        "tier": 1
     }
 ]

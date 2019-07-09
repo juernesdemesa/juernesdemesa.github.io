@@ -174,5 +174,29 @@
         "bgg": "https://boardgamegeek.com/boardgame/230802/azul",
         "buy": false,
         "tier": 0
+    },
+    {
+        "name": "Agricola",
+        "image": "/assets/images/pages/tops/agricola.jpg",
+        "review": "https://www.youtube.com/watch?v=azoOOsz7FLw",
+        "bgg": "https://boardgamegeek.com/boardgame/31260/agricola",
+        "buy": false,
+        "tier": 0
+    },
+    {
+        "name": "CuBirds",
+        "image": "/assets/images/pages/tops/cubird.jpg",
+        "review": "https://www.youtube.com/watch?v=xM3azpiNUis",
+        "bgg": "https://boardgamegeek.com/boardgame/245476/cubirds",
+        "buy": false,
+        "tier": 4
+    },
+    {
+        "name": "Saqueadores del mar del norte",
+        "image": "/assets/images/pages/tops/saqueadores.png",
+        "review": "https://www.youtube.com/watch?v=62XWqOy0mlU",
+        "bgg": "https://boardgamegeek.com/boardgame/170042/raiders-north-sea",
+        "buy": false,
+        "tier": 1
     }
 ]
