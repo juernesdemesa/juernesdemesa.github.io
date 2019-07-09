@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [pandemic, zmangames, juernesdemesa]
 image: assets/images/posts/2019-06-24-evento-pandemic-1/header.png
 description: "Evento - Pandemic"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
