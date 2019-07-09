@@ -1,13 +1,5 @@
 [
     {
-        "name": "Agricola",
-        "image": "/assets/images/pages/tops/agricola.jpg",
-        "review": "https://www.youtube.com/watch?v=azoOOsz7FLw",
-        "bgg": "https://boardgamegeek.com/boardgame/31260/agricola",
-        "buy": false,
-        "tier": 2
-    },
-    {
         "name": "Viticulture Essential Edition",
         "image": "/assets/images/pages/tops/viniculture.jpg",
         "review": "https://www.youtube.com/watch?v=UlpIzDIF2Ys",

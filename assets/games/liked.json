@@ -40,14 +40,6 @@
         "tier": 1
     },
     {
-        "name": "Arquitectos del reino del oeste",
-        "image": "/assets/images/pages/tops/arquitectos.jpg",
-        "review": "https://www.youtube.com/watch?v=vEbI1Tzic4M",
-        "bgg": "https://boardgamegeek.com/boardgame/236457/architects-west-kingdom",
-        "buy": false,
-        "tier": 1
-    },
-    {
         "name": "Los viajes de Marco Polo",
         "image": "/assets/images/pages/tops/marco-polo.jpg",
         "review": "https://www.youtube.com/watch?v=tGZpxqvfoEU",
