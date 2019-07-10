@@ -6,15 +6,17 @@ comments: false
 ---
 
 <script src="../assets/js/games.js"></script>
-
+<script>
+    const games = getGames();
+</script>
 ## Lista de la compra
 
-<script>printGames("../assets/games/wishlist.json")</script>
+<script>printGames(games.filter(game => game.wantToBuy))</script>
 
 ## Me gustan
 
-<script>printGames("../assets/games/liked.json")</script>
+<script>printGames(games.filter(game => game.wantToPlay))</script>
 
 ## En el radar
 
-<script>printGames("../assets/games/radar.json")</script>
+<script>printGames(games.filter(game => game.wishList))</script>

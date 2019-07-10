@@ -7,4 +7,7 @@ comments: false
 
 <script src="../assets/js/games.js"></script>
 
-<script>printGames("../assets/games/ludoteca.json")</script>
+<script>
+    const games = getGames();
+    printGames(games.filter(game => game.owned))
+</script>
