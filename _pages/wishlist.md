@@ -11,12 +11,12 @@ comments: false
 </script>
 ## Lista de la compra
 
-<script>printGames(games.filter(game => game.wantToBuy))</script>
+<script>printGames(games.filter(game => game.wantToBuy == 1))</script>
 
 ## Me gustan
 
-<script>printGames(games.filter(game => game.wantToPlay))</script>
+<script>printGames(games.filter(game => game.wantToPlay == 1))</script>
 
 ## En el radar
 
-<script>printGames(games.filter(game => game.wishList))</script>
+<script>printGames(games.filter(game => game.wishList == 1))</script>

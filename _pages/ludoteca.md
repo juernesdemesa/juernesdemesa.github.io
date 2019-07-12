@@ -9,5 +9,5 @@ comments: false
 
 <script>
     const games = getGames();
-    printGames(games.filter(game => game.owned))
+    printGames(games.filter(game => game.owned == 1))
 </script>
