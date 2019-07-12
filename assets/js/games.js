@@ -4,7 +4,7 @@ function printGames(games) {
     for (let i = 0; i < games.length; i++) {
         items +=
             `<div class="masonry-item" title="${games[i].name}">
-                    <a target="_blank" rel="noopener noreferrer" href="https://boardgamegeek.com/boardgame/${games[i].gameId}">
+                    <a target="_blank" rel="noopener noreferrer" href="https://boardgamegeek.com/boardgame/${games[i].RowKey}">
                         <img src="${games[i].image}" alt="${games[i].name}">
                     </a>
             </div>`;
