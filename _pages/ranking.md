@@ -12,11 +12,9 @@ comments: false
 | 1 | Santi  |     1     |
 | 1 | Pedro  |     1     |
 | 1 | Elvira |     1     |
+| 1 | Gallardo |     1     |
 | - | Sara |     0     |
 | - | Elena  |     0     |
-| - | Gallardo |     0     |
-
-
 
 ## Ranking de juegos cooperativos
 
