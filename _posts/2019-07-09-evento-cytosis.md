@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [cytosis, genius games, juernesdemesa]
 image: assets/images/posts/2019-07-09-evento-cytosis/header.jpg
 description: "Evento - Cytosis"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
