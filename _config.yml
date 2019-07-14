@@ -5,7 +5,7 @@ description: "Grupo de juegos de mesa"
 logo: 'assets/images/blog/logo.png'
 favicon: 'assets/images/blog/favicon.ico'
 baseurl: 
-google_analytics: 'UA-141504673-1'
+google_analytics: 'UA-143829534-1'
 disqus: 'juernesdemesa'
 mailchimp-list: False
 include: ["_pages"]
