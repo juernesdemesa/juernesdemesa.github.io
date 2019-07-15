@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conociendo Clank!"
+title:  "🤓 Conociendo Clank!"
 author: juernesdemesa
 categories: [ Conociendo ]
 tags: [clank, deck building, devir, conociendo]

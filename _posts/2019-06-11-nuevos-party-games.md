@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nuevos Party Games"
+title:  "🤑 Nuevos Party Games"
 author: juernesdemesa
 categories: [ Lista de la compra ]
 tags: [código secreto, dixit, insider, sospechosos inhabituales, lista de la compra]
