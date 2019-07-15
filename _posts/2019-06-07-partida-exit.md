@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Partida - Exit: El laboratorio secreto"
+title:  "🎲 Partida - Exit: El laboratorio secreto"
 author: juernesdemesa
 categories: [ Partida ]
 tags: [exit, devir, partida]

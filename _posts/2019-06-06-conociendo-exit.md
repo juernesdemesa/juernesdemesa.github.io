@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conociendo Exit: El laboratorio secreto"
+title:  "🤓 Conociendo Exit: El laboratorio secreto"
 author: juernesdemesa
 categories: [ Conociendo ]
 tags: [exit, devir, conociendo]

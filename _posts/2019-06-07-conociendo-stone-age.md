@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conociendo Stone Age"
+title:  "🤓 Conociendo Stone Age"
 author: juernesdemesa
 categories: [ Conociendo ]
 tags: [stone age, devir, conociendo]

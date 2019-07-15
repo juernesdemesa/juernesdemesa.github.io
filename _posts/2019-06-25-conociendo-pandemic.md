@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conociendo Pandemic"
+title:  "🤓 Conociendo Pandemic"
 author: juernesdemesa
 categories: [ Conociendo ]
 tags: [pandemic, zmangames, conociendo]

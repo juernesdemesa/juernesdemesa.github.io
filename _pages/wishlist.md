@@ -9,14 +9,27 @@ comments: false
 <script>
     const games = getGames();
 </script>
-## Lista de la compra
 
-<script>printGames(games.filter(game => game.wantToBuy == 1))</script>
+## 🤑 Lista de la compra
+---
+<script>printGames(games.filter(game => game.wantToBuy))</script>
 
-## Me gustan
+## 💫 Lista de deseos
+---
 
-<script>printGames(games.filter(game => game.wantToPlay == 1))</script>
 
-## En el radar
+### 🤤 Must have
 
-<script>printGames(games.filter(game => game.wishList == 1))</script>
+<script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 1))</script>
+
+### 😍 Love to have
+
+<script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 2))</script>
+
+### 😊 Like to have
+
+<script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 3))</script>
+
+### 🤨 Thinking about it
+
+<script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 4))</script>

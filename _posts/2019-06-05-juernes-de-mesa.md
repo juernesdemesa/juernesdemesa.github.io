@@ -4,7 +4,7 @@ title:  "Juernes de mesa"
 author: juernesdemesa
 categories: [ General ]
 tags: [general]
-image: assets/images/posts/2019-06-05-juernes-de-mesa/header.png
+image: assets/images/posts/2019-06-05-juernes-de-mesa/header.jpg
 description: "Post de presentación del grupo de juegos de mesa 'Juernes de mesa'"
 featured: False
 hidden: False
