@@ -4,6 +4,12 @@ function printGames(games) {
     for (let i = 0; i < games.length; i++) {
         items +=
             `<div class="masonry-item" title="${games[i].name}">
+                    <div class="game-details-element">
+                        <div class="game-details-icon">🎲</div>
+                        <div class="game-details">
+                        👨‍👩‍👧‍👦${games[i].minplayers != games[i].maxplayers ? games[i].minplayers + " - " + games[i].maxplayers : games[i].minplayers}
+                        ⌛️${games[i].minplaytime != games[i].maxplaytime ? games[i].minplaytime + " - " + games[i].maxplaytime : games[i].minplaytime}</div>
+                    </div>
                     <a target="_blank" rel="noopener noreferrer" href="https://boardgamegeek.com/boardgame/${games[i].RowKey}">
                         <img src="${games[i].image}" alt="${games[i].name}">
                     </a>
