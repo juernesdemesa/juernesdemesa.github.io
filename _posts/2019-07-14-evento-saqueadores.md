@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗓 18/07/2019 - Saqueadores del Mar del Norte"
+title:  "📆 18/07/2019 - Saqueadores del Mar del Norte"
 author: juernesdemesa
 categories: [ Juernes de Mesa ]
 tags: [saqueadores del mar del norte, ediciones primigenio, juernesdemesa]

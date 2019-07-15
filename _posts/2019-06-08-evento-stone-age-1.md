@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evento (13/06/2019) - Stone Age"
+title:  "📆 13/06/2019 - Stone Age"
 author: juernesdemesa
 categories: [ Juernes de Mesa ]
 tags: [stone age, devir, juernesdemesa]
