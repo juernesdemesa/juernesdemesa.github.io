@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evento (20/06/2019) - Clank!"
+title:  "📆 20/06/2019 - Clank!"
 author: juernesdemesa
 categories: [ Juernes de Mesa ]
 tags: [clank, devir, juernesdemesa]

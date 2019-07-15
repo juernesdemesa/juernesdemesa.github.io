@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evento (11/07/2019) - Cytosis"
+title:  "📆 11/07/2019 - Cytosis"
 author: juernesdemesa
 categories: [ Juernes de Mesa ]
 tags: [cytosis, genius games, juernesdemesa]
