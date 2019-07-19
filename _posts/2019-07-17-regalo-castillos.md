@@ -6,7 +6,7 @@ categories: [ Conociendo ]
 tags: [castillos de borgoña, maldito games, juernesdemesa]
 image: assets/images/posts/2019-07-17-regalo-castillos/header.jpg
 description: "Un regalito muy especial: Los Castillos de Borgoña"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---

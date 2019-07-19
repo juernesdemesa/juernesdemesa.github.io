@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [saqueadores del mar del norte, ediciones primigenio, juernesdemesa]
 image: assets/images/posts/2019-07-14-evento-saqueadores/header.jpg
 description: "Evento - Saqueadores del Mar del Norte"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
