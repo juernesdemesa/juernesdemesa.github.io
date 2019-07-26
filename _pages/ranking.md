@@ -31,8 +31,8 @@ comments: false
 
 | # | Nombre | Asistencias |
 |:--:|:------|:---------:|
-| 1 | 🥇 Elvira |     6     |
-| 1 | 🥇 Gallardo |     6     |
+| 1 | 🥇 Elvira |     7     |
+| 1 | 🥇 Gallardo |     7     |
 | 2 | 🥈 Sara |     3     |
 | 3 | 🥉 Santi  |     2     |
 | 3 | 🥉 Pedro  |     2     |
