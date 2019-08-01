@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [castillos de borgoña, maldito games, juernesdemesa]
 image: assets/images/posts/2019-07-19-evento-castillos/header.jpg
 description: "Evento: Los Castillos de Borgoña"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
