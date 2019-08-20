@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [vacaciones, juernesdemesa]
 image: assets/images/posts/2019-08-01-vacaciones/header.jpg
 description: "Vacaciones de verano"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
