@@ -11,7 +11,7 @@ function printGames(games) {
                         ⌛️${games[i].minplaytime != games[i].maxplaytime ? games[i].minplaytime + " - " + games[i].maxplaytime : games[i].minplaytime}</div>
                     </div>
                     <a target="_blank" rel="noopener noreferrer" href="https://boardgamegeek.com/boardgame/${games[i].RowKey}">
-                        <img src="${games[i].image}" alt="${games[i].name}">
+                        <img src="${games[i].thumbnail}" alt="${games[i].name}">
                     </a>
             </div>`;
     }
