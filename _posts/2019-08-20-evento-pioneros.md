@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [los pioneros, doit games, juernesdemesa]
 image: assets/images/posts/2019-08-20-evento-pioneros/header.jpg
 description: "Evento: Los Pioneros"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
