@@ -36,11 +36,11 @@ comments: false
 | 1 | 🥇 Elvira |     9   |
 | 1 | 🥇 Gallardo |     9  |
 | 2| 🥈 Fran  |     4     |
-| 2 | 🥉 Sara |     3     |
-| 2| 🥉 Pedro  |     3    |
-| 3 | Santi  |     2     |
-| 4 | Elena  |     1     |
-| 4 | Ramón  |     1     |
-| 4 | Carlos | 1     |
+| 3 | 🥉 Sara |     3     |
+| 3| 🥉 Pedro  |     3    |
+| 4 | Santi  |     2     |
+| 5 | Elena  |     1     |
+| 5 | Ramón  |     1     |
+| 5 | Carlos | 1     |
 
 ---
