@@ -11,7 +11,7 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! Hoy he recibido un regalo muy especial y que me ha gustado mucho: **Los Castillos de Borgoña**. Un juego que tiene bastante tiempo, que sigue muy alto en el [ranking de la BGG](https://boardgamegeek.com/browse/boardgame) y que lleva mucho tiempo en mi [Lista de deseos](/wishlist).
+¡Hola Juerneros! Hoy he recibido un regalo muy especial y que me ha gustado mucho: **Los Castillos de Borgoña**. Un juego que tiene bastante tiempo, que sigue muy alto en el [ranking de la BGG](https://boardgamegeek.com/browse/boardgame) y que lleva mucho tiempo en mi [Lista de deseos](/deseos).
 
 ## Datos generales
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lista de deseos
-permalink: /wishlist
+permalink: /deseos
 comments: false
 ---
 
