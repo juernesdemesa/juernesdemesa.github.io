@@ -17,19 +17,22 @@ comments: false
 ## 💫 Lista de deseos
 ---
 
-
-### 🤤 Must have
+### 🤤 Lo necesito
 
 <script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 1))</script>
 
-### 😍 Love to have
+### 😍 Me encantaría tenerlo
 
 <script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 2))</script>
 
-### 😊 Like to have
+### 😊 Me gustaría tenerlo
 
 <script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 3))</script>
 
-### 🤨 Thinking about it
+### 🤨 Me gusta este juego
 
 <script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 4))</script>
+
+### 🤓 Juegos para revisar
+
+<script>printGames(games.filter(game => game.wishList && game.wishlistpriority == 5))</script>
