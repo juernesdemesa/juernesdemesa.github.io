@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [stone age, devir, juernesdemesa]
 image: assets/images/posts/2019-08-26-evento-stone-age-2/header.jpg
 description: "Evento - Stone Age: La edad de piedra"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
