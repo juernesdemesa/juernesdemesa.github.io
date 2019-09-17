@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🧐 10/09/2019 - Escape Tales: El despertar"
+title:  "🧐 24/09/2019 - Escape Tales: El despertar"
 author: juernesdemesa
 categories: [ Juernes de Mesa Deluxe Edition ]
 tags: [escapetales, juernesdemesa]
@@ -11,11 +11,11 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo martes 10 de septiembre, tenemos el primer **Juernes de Mesa: Deluxe Edition**. Esta vez, vamos a jugar al **Escape Tales: el despertar**. Esperamos que la duración del juego sea de entre 2-4 Juernes de Mesa.
+¡Hola Juerneros! El próximo martes 24 de septiembre, tenemos el primer **Juernes de Mesa: Deluxe Edition**. Esta vez, vamos a jugar al **Escape Tales: el despertar**. Esperamos que la duración del juego sea de entre 2-4 Juernes de Mesa.
 
 ## Datos generales
 
-* **Fecha:** 10 de septiembre de 2019 - 18:30
+* **Fecha:** 24 de septiembre de 2019 - 18:30
 * **Lugar:** 🎲 Cuártel general de Juernes de Mesa
 * **Juego:** Espace Tales: el despertar
 * **Jugadores:** 1-4
