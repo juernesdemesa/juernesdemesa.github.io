@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [agricola, devir, juernesdemesa]
 image: assets/images/posts/2019-09-19-evento-agricola/header.jpg
 description: "Evento - Agricola"
-featured: False
+featured: True
 hidden: False
 rating: False
 ---
