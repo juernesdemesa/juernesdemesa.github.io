@@ -6,7 +6,7 @@ categories: [ Juernes de Mesa ]
 tags: [viticulture, malditogames, juernesdemesa]
 image: assets/images/posts/2019-09-24-evento-viticulture/header.jpg
 description: "Evento - Viticulture"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---

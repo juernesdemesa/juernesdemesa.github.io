@@ -14,7 +14,7 @@ comments: false
 | 3 | 🥉 Santi  |     1     |
 | 3 | 🥉 Elvira |     1     |
 | 3 | 🥉 Fran  |     1     |
-| - | Sara |     0     |
+| 3 | 🥉 Sara |     1     |
 | - | Elena  |     0     |
 | - | Ramón  |     0     |
 | - | Carlos  |     0     |
@@ -33,14 +33,15 @@ comments: false
 
 | # | Nombre | Asistencias |
 |:--:|:------|:---------:|
-| 1 | 🥇 Elvira |     10   |
-| 1 | 🥇 Gallardo |     10  |
-| 2| 🥈 Fran  |     4     |
-| 3 | 🥈 Sara |     4     |
-| 3| 🥈 Pedro  |     4    |
-| 4 | 🥉 Santi  |     2     |
-| 5 | Elena  |     1     |
-| 5 | Ramón  |     1     |
-| 5 | Carlos | 1     |
+| 1 | 🥇 Gallardo |     11   |
+| 2 | 🥈 Elvira |     10  |
+| 3 | 🥉 Fran  |     5     |
+| 3 | 🥉 Sara |     5     |
+| 4 | Pedro  |     4    |
+| 5 | Santi  |     2     |
+| 6 | Alexander  |     1     |
+| 6 | Elena  |     1     |
+| 6 | Ramón  |     1     |
+| 6 | Carlos | 1     |
 
 ---
