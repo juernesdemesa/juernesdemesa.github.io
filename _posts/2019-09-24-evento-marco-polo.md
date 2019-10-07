@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📆 03/10/2019 - Los viajes de Marco Polo"
+title:  "📆 10/10/2019 - Los viajes de Marco Polo"
 author: juernesdemesa
 categories: [ Juernes de Mesa ]
 tags: [marcopolo, devir, juernesdemesa]
@@ -11,11 +11,11 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 19 de septiembre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Los viajes de Marco Polo**.
+¡Hola Juerneros! El próximo jueves 10 de octubre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Los viajes de Marco Polo**.
 
 ## Datos generales
 
-* **Fecha:** 3 de octubre de 2019 - 18:00
+* **Fecha:** 10 de octubre de 2019 - 18:00
 * **Lugar:** 🌕 [Júpiter Juegos Central](https://www.jupiterjuegos.com/tiendas/) 
 * **Juego:** Los viajes de Marco Polo
 * **Jugadores:** 2-4
