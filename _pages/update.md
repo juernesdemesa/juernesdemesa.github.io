@@ -5,13 +5,13 @@ permalink: /update
 comments: false
 ---
 
-<!--<script>
+<script>
 var request = new XMLHttpRequest();
 url = "https://juernesdemesa.azurewebsites.net/api/update-games"
 request.open("GET", url, false);
 request.setRequestHeader("Accept", "application/json")
 request.send(null)
-</script>-->
+</script>
 
 ## 👨🏻‍💻 Datos actualizados...
 
