@@ -11,7 +11,7 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 17 de octubre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Los viajes de Marco Polo**.
+¡Hola Juerneros! El próximo jueves 17 de octubre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Los viajes de Marco Polo**. Aquí tenéis la [guía](/guia-marco-polo) del juego.
 
 ## Datos generales
 
@@ -20,6 +20,7 @@ rating: False
 - **Juego:** Los viajes de Marco Polo
 - **Jugadores:** 2-4
 - **Tiempo:** 40-100
+- [Guía](/guia-marco-polo)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eGr-buKzUKI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
