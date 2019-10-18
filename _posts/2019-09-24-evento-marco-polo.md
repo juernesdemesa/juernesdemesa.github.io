@@ -6,7 +6,7 @@ categories: [Juernes de Mesa]
 tags: [marcopolo, devir, juernesdemesa]
 image: assets/images/posts/2019-09-24-evento-marco-polo/header.jpg
 description: "Evento - Los viajes de Marco Polo"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
