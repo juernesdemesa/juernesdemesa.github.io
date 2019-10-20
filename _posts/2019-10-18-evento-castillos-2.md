@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📆 24/10/2019 - Los Castillos de Borgoña"
+title: "📆 31/10/2019 - Los Castillos de Borgoña"
 author: juernesdemesa
 categories: [Juernes de Mesa]
 tags: [castillos de borgoña, maldito games, juernesdemesa]
@@ -11,11 +11,11 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 24 de octubre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Los Castillos de Borgoña**.
+¡Hola Juerneros! El próximo jueves 31 de octubre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Los Castillos de Borgoña**.
 
 ## Datos generales
 
-- **Fecha:** 24 de octubre de 2019 - 18:00
+- **Fecha:** 31 de octubre de 2019 - 18:00
 - **Lugar:** 🌕 [Júpiter Juegos Central](https://www.jupiterjuegos.com/tiendas/)
 - **Juego:** Los Castillos de Borgoña
 - **Jugadores:** 2-4
