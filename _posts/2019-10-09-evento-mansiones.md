@@ -16,7 +16,7 @@ rating: False
 ## Datos generales
 
 - **Fecha:** 22 de octubre de 2019 - 18:30
-- **Lugar:** 🎲 Cuártel general de Juernes de Mesa
+- **Lugar:** 🎲 Cuartel general de Juernes de Mesa
 - **Juego:** Las Mansiones de la Locura
 - **Jugadores:** 1-5
 - **Tiempo:** 60-90
