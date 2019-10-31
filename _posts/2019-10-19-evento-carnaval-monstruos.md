@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "📆 07/11/2019 - Carnaval de Monstruos"
+title: "📆 31/10/2019 - Carnaval de Monstruos"
 author: juernesdemesa
 categories: [Juernes de Mesa]
 tags: [castillos de borgoña, maldito games, juernesdemesa]
 image: assets/images/posts/2019-10-19-evento-carnaval-monstruos/header.jpg
 description: "Evento: Carnaval de Monstruos"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 7 de noviembre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Carnaval de Monstruos**.
+¡Hola Juerneros! El próximo jueves 31 de octubre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Carnaval de Monstruos**.
 
 ## Datos generales
 
-- **Fecha:** 7 de noviembre de 2019 - 18:00
-- **Lugar:** 🌕 [Júpiter Juegos Central](https://www.jupiterjuegos.com/tiendas/)
+- **Fecha:** 31 de octubre de 2019 - 18:00
+- **Lugar:** 🎲 Cuartel general de Juernes de Mesa
 - **Juego:** Carnaval de Monstruos
 - **Jugadores:** 2-5
 - **Tiempo:** 45
