@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📆 21/11/2019 - 7 Wonders"
+title: "📆 23/01/2020 - 7 Wonders"
 author: juernesdemesa
 categories: [Juernes de Mesa]
 tags: [7 wonders, asmodee, juernesdemesa]
@@ -11,11 +11,11 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 21 de noviembre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **7 Wonders**.
+¡Hola Juerneros! El próximo jueves 23 de enero, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **7 Wonders**.
 
 ## Datos generales
 
-- **Fecha:** 21 de noviembre de 2019 - 18:00
+- **Fecha:** 23 de enero de 2020 - 18:00
 - **Lugar:** 🌕 [Júpiter Juegos Central](https://www.jupiterjuegos.com/tiendas/)
 - **Juego:** 7 Wonders
 - **Jugadores:** 2-7

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📆 14/11/2019 - Wingspan"
+title: "📆 16/01/2020 - Wingspan"
 author: juernesdemesa
 categories: [Juernes de Mesa]
 tags: [wingspan, maldito games, juernesdemesa]
@@ -11,11 +11,11 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 14 de noviembre, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Wingspan**.
+¡Hola Juerneros! El próximo jueves 16 de enero, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a **Wingspan**.
 
 ## Datos generales
 
-- **Fecha:** 14 de noviembre de 2019 - 18:00
+- **Fecha:** 16 de enero de 2020 - 18:00
 - **Lugar:** 🌕 [Júpiter Juegos Central](https://www.jupiterjuegos.com/tiendas/)
 - **Juego:** Wingspan
 - **Jugadores:** 1-5
