@@ -11,10 +11,13 @@ comments: false
 </script>
 
 ## 🤑 Lista de la compra
+
 ---
+
 <script>printGames(games.filter(game => game.wantToBuy))</script>
 
 ## 💫 Lista de deseos
+
 ---
 
 ### 🤤 Lo necesito

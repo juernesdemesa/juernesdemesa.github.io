@@ -31,73 +31,31 @@ a:hover {
   margin-right: 5px;
 }
 
-.masonry {
-  column-count: 1;
-  column-gap: 1em;
+.gamethumb {
+  height: 100%;
+  overflow: hidden;
+  margin-bottom: 4px;
 }
 
-.masonry-item {
-  display: block;
-  margin-bottom: 12px;
-  position: relative;
+.game-card-footer {
+  font-size: 14px;
+  margin: 0px;
+  padding: 0.5em 0.9em;
+}
+.game-card-body {
+  padding-left: 0.9em;
+  padding-top: 0.5em;
+  padding-right: 0.9em;
 }
 
-.game-details-element {
-  position: absolute;
-  left: 12px;
-  top: 12px;
-  height: 28px;
-  background-color: white;
-  border: 1px solid white;
-  padding-left: 6px;
-  border-radius: 50px;
-  display: none;
-} 
-
-.masonry-item:hover .game-details-element {
-  display: block;
+.game-card-title {
+  margin: 0px !important;
+  font-size: 1em;
+  height: 40px;
 }
 
-.game-details {
-  display: none;
-  margin-right: 8px;
-  margin-left: 4px;
-}
-
-.game-details-element:hover .game-details {
-  display: inline;
-} 
-
-.game-details-element:hover .game-details-icon {
-  display: none;
-} 
-
-@media (min-width: 400px) {
-  .masonry {
-    column-count: 2;
-  }
-}
-
-@media (min-width: 700px) {
-  .masonry {
-    column-count: 3;
-  }
-}
-
-@media (min-width: 1000px) {
-  .masonry {
-    column-count: 4;
-  }
-}
-
-@media (min-width: 1200px) {
-  .masonry {
-    column-count: 5;
-  }
-}
-
-@media (min-width: 1800px) {
-  .masonry {
-    column-count: 6;
+@media (min-width: 768px) {
+  .gamethumb {
+    height: 240px;
   }
 }

@@ -4,32 +4,46 @@ function printGames(games) {
   });
   let items = "";
   for (let i = 0; i < games.length; i++) {
-    items += `<div class="masonry-item" title="${games[i].name}">
-                    <div class="game-details-element">
-                        <div class="game-details-icon">🎲</div>
-                        <div class="game-details">
-                        👨‍👩‍👧‍👦${
-                          games[i].minplayers != games[i].maxplayers
-                            ? games[i].minplayers + " - " + games[i].maxplayers
-                            : games[i].minplayers
-                        }
-                        ⌛️${
-                          games[i].minplaytime != games[i].maxplaytime
-                            ? games[i].minplaytime +
-                              " - " +
-                              games[i].maxplaytime
-                            : games[i].minplaytime
-                        }</div>
-                    </div>
-                    <a target="_blank" rel="noopener noreferrer" href="https://boardgamegeek.com/boardgame/${
-                      games[i].RowKey
-                    }">
-                        <img src="${games[i].thumbnail}" alt="${games[i].name}">
-                    </a>
-            </div>`;
+    items += `<div class="col-lg-3 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="gamethumb">
+        <a target="_blank" rel="noopener noreferrer" href="https://boardgamegeek.com/boardgame/${
+          games[i].RowKey
+        }">
+          <img class="img-fluid lazyimg" src="${games[i].thumbnail}" alt="${
+      games[i].name
+    }">
+        </a>
+        </div>
+        <div class="game-card-body">
+            <h2 class="game-card-title">
+                <a class="text-dark" href="https://boardgamegeek.com/boardgame/${
+                  games[i].RowKey
+                }">${games[i].name}</a>
+            </h2>
+        </div>
+        <div class="card-footer bg-white game-card-footer">
+            <div class="wrapfooter" style="margin: 0px">
+            🏆${games[i].rank}
+            &nbsp;&nbsp;
+            👥${
+              games[i].minplayers != games[i].maxplayers
+                ? games[i].minplayers + " - " + games[i].maxplayers
+                : games[i].minplayers
+            }
+            &nbsp;&nbsp;
+            ⏱${
+              games[i].minplaytime != games[i].maxplaytime
+                ? games[i].minplaytime + " - " + games[i].maxplaytime
+                : games[i].minplaytime
+            }
+            </div>
+        </div>
+    </div>
+</div>`;
   }
 
-  document.write(`<div class="masonry">${items}</div><br/>`);
+  document.write(`<div class="row listrecent">${items}</div><br/>`);
 }
 
 function sleep(milliseconds) {
