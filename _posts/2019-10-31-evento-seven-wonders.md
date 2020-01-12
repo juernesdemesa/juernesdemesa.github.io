@@ -35,7 +35,7 @@ Estamos al frente de una civilización y tenemos que conseguir que sea la más p
 
 3/3⭐ 7 Wonders es uno de los mejores juegos de draft. Como buen juego de draft, tiene la ventaja de que la forma de jugar es muy amena. Al hacer el draft todos a la vez no hay entreturno. Este juego nos obliga a pensar bien qué carta nos quedamos (o descartamos). Además, tienes que estar muy pendientes de los vecinos para poder controlarlos militarmente. En mi opinión, tiene la complejidad exacta para disfrutar de la partida y calentarte un poco la cabeza. Es una gran opción para grandes grupos. Sin ser un juego excesivamente complejo, sí que es verdad que a la hora de explicar cómo se juega hay muchos factores a tener en cuenta. A 2 jugadores no tiene mucho sentido, para eso existe 7 Wonder Duel.
 
-## Reseña
+## 🔍 Reseña
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r2ho73DRABQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -35,7 +35,7 @@ Wingspan es un juego de hacer combos con las aves. Las aves que vamos colocando 
 
 2/3⭐ Wingspan es un juego que me gusta pero no me apasiona. Tengo que decir que llevo muy pocas partidas al juego. Creo que su punto fuerte debería ser los combos con las cartas y hacer un buen motor para poder ganar la partida. En mi caso, no he conseguido encontrar esa sensación. Tengo que darle más partidas para poder verle las virtudes. Aún así, es un buen juego y me apetece jugarlo. Por otro lado, en cuanto a producción es de lo mejorcito que tengo en la ludoteca. El material de las cartas y los tableros, la torre de dados que incluye y las ilustraciones de las aves son increíbles.
 
-## Reseña
+## 🔍 Reseña
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHLcJdYUWBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
