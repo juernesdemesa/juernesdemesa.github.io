@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "🥩 Guías de juegos - Las Mansiones de la Locura"
+title: "🥩 La chuleta - Las Mansiones de la Locura"
 author: juernesdemesa
-categories: [Guías]
-tags: [guías, juernesdemesa]
+categories: [LaChuleta]
+tags: [lachuleta, juernesdemesa]
 description: "Las Mansiones de la Locura"
 image: assets/images/posts/2019-10-20-guia-mansiones/header.jpg
 featured: False

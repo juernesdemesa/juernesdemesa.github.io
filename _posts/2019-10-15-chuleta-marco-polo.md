@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "🥩 Guías de juegos - Los viajes de Marco Polo"
+title: "🥩 La chuleta - Los viajes de Marco Polo"
 author: juernesdemesa
-categories: [Guías]
-tags: [guías, juernesdemesa]
+categories: [LaChuleta]
+tags: [lachuleta, juernesdemesa]
 description: "Introducción a las guias"
 image: assets/images/posts/2019-10-15-guia-marco-polo/header.jpg
 featured: False
