@@ -4,7 +4,7 @@ title: "🥩 La chuleta - Wingspan"
 author: juernesdemesa
 categories: [LaChuleta]
 tags: [guías, juernesdemesa]
-description: "Introducción a las guias"
+description: "La chuleta del Wingspan"
 image: assets/images/posts/2019-10-31-evento-wingspan/header.png
 featured: False
 hidden: False
@@ -46,7 +46,7 @@ Recuento final:
 
 Podemos realizar 4 acciones:
 
-- **Juegar un ave**: jugamos un ave en el hábitad que queramos pagando la comida y los huevos necesarios.
+- **Jugar un ave**: jugamos un ave en el hábitat que queramos pagando la comida y los huevos necesarios.
 - **Obtener alimento**: obtenemos del comedero tantos dados de comida como indique la acción.
   - **Nota**: si el comedero queda vacío o con todos los dados con el mismo alimento, el jugador que va a coger comida puede elegir relanzar los dados.
 - **Poner huevos**: Pon tantos huevos sobre tus aves como indique la acción.
