@@ -9,10 +9,10 @@ comments: false
 
 |  #  | Nombre      | Victorias |
 | :-: | :---------- | :-------: |
-|  1  | 🥇 Gallardo |     6     |
+|  1  | 🥇 Gallardo |     7     |
 |  2  | 🥈 Elvira   |     3     |
 |  3  | 🥉 Pedro    |     2     |
-|  3  | 🥉 Fran        |     2     |
+|  3  | 🥉 Fran     |     2     |
 |  4  | Santi       |     1     |
 |  4  | Sara        |     1     |
 |  -  | Elena       |     0     |
@@ -35,9 +35,9 @@ comments: false
 
 |  #  | Nombre      | Asistencias |
 | :-: | :---------- | :---------: |
-|  1  | 🥇 Gallardo |     16      |
+|  1  | 🥇 Gallardo |     17      |
 |  2  | 🥈 Elvira   |     13      |
-|  3  | 🥉 Fran     |      8      |
+|  3  | 🥉 Fran     |      9      |
 |  3  | Sara        |      6      |
 |  4  | Pedro       |      4      |
 |  5  | Santi       |      2      |
@@ -45,5 +45,6 @@ comments: false
 |  6  | Elena       |      1      |
 |  6  | Ramón       |      1      |
 |  6  | Carlos      |      1      |
+|  6  | Jesús       |      1      |
 
 ---

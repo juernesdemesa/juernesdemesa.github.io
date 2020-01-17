@@ -6,7 +6,7 @@ categories: [Juernes de Mesa]
 tags: [wingspan, maldito games, juernesdemesa]
 image: assets/images/posts/2019-10-31-evento-wingspan/header.png
 description: "Evento: Wingspan"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
