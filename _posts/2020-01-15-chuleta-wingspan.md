@@ -3,7 +3,7 @@ layout: post
 title: "🥩 La chuleta - Wingspan"
 author: juernesdemesa
 categories: [LaChuleta]
-tags: [guías, juernesdemesa]
+tags: [lachuleta, juernesdemesa]
 description: "La chuleta del Wingspan"
 image: assets/images/posts/2019-10-31-evento-wingspan/header.png
 featured: False
