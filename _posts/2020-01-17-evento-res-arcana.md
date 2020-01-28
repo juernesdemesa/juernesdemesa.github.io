@@ -25,19 +25,19 @@ rating: False
 
 ## 📺 Ambientación
 
-Estamos al frente de una civilización y tenemos que conseguir que sea la más próspera de todas. Además, intentaremos construir una maravilla que transcienda en los tiempos venideros.
+Eres un mago alquímico que compites por el control de lugares de poder y monumentos. Para ello, podrás hacer uso de potentes artefactos e invocar dragones y otras criaturas; tendrás que ir transformando los elementos para poder pagar su coste.
 
 ## 🎯 Objetivo
 
-7 Wonders es un juego de draft en el que tendremos que conseguir la ciudad más próspera e intentar construir nuestra maravilla. Para ello, iremos cogiendo cartas de diferentes tipos. Algunas de las cartas nos darán puntos de victoria, recursos para adquirir otras cartas, poder militar para amedrentar a nuestros vecinos y ganar puntos, etc… Con todo ello, tenemos que conseguir después de 3 eras tener la ciudad con más puntos de victoria.
+Gana el primer mago que consiga 10 puntos de victoria. Al principio de cada ronda se recolectan esencias. Luego, los jugadores se van turnando realizando 1 acción por turno. Cuando todos los jugadores han pasado, se comprueba si alguno de los magos tienen 10 puntos de victoria. Los artefactos que juguemos nos darán nuevas acciones que nos permitirán ir mutando elementos, de esta forma, podremos adquirir diferentes esencias y así podremos conquistar espacios de poder y monumentos, que además de nuevas acciones, nos darán puntos de victoria.
 
 ## 💬 Opinión
 
-3/3⭐ 7 Wonders es uno de los mejores juegos de draft. Como buen juego de draft, tiene la ventaja de que la forma de jugar es muy amena. Al hacer el draft todos a la vez no hay entreturno. Este juego nos obliga a pensar bien qué carta nos quedamos (o descartamos). Además, tienes que estar muy pendientes de los vecinos para poder controlarlos militarmente. En mi opinión, tiene la complejidad exacta para disfrutar de la partida y calentarte un poco la cabeza. Es una gran opción para grandes grupos. Sin ser un juego excesivamente complejo, sí que es verdad que a la hora de explicar cómo se juega hay muchos factores a tener en cuenta. A 2 jugadores no tiene mucho sentido, para eso existe 7 Wonder Duel.
+2/3⭐Poco puedo decir con sólo una partida, pero el juego me ha gustado bastante. Me encanta la idea de intentar hacer combos e ir mutando los elementos hasta que consigues los que necesitas para comprar esa carta que te da la victoria. Es una carrera y eso genera una tensión y ganas de más. En español tiene bastantes erratas en el manual, 1 de ellas muy grave, así que os recomiendo buscar en la BGG el manual en inglés y revisarlo.
 
 ## 🔍 Reseña
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r2ho73DRABQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wn5Aw0HjZDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 No olvidéis contactar con nosotros para apuntaros. Hay plazas limitadas.
 
