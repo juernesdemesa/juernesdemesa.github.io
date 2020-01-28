@@ -6,7 +6,7 @@ categories: [Juernes de Mesa]
 tags: [7 wonders, asmodee, juernesdemesa]
 image: assets/images/posts/2019-10-31-evento-seven-wonders/header.jpg
 description: "Evento: 7 Wonders"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---

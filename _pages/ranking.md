@@ -9,7 +9,7 @@ comments: false
 
 |  #  | Nombre      | Victorias |
 | :-: | :---------- | :-------: |
-|  1  | 🥇 Gallardo |     7     |
+|  1  | 🥇 Gallardo |     8     |
 |  2  | 🥈 Elvira   |     3     |
 |  3  | 🥉 Pedro    |     2     |
 |  3  | 🥉 Fran     |     2     |
@@ -37,14 +37,14 @@ comments: false
 | :-: | :---------- | :---------: |
 |  1  | 🥇 Gallardo |     17      |
 |  2  | 🥈 Elvira   |     13      |
-|  3  | 🥉 Fran     |      9      |
+|  3  | 🥉 Fran     |     10      |
 |  3  | Sara        |      6      |
 |  4  | Pedro       |      4      |
 |  5  | Santi       |      2      |
+|  5  | Jesús       |      2      |
 |  6  | Alexander   |      1      |
 |  6  | Elena       |      1      |
 |  6  | Ramón       |      1      |
 |  6  | Carlos      |      1      |
-|  6  | Jesús       |      1      |
 
 ---
