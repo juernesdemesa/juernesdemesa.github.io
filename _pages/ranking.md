@@ -25,9 +25,10 @@ comments: false
 
 |  #  | Juego                         | Victorias | Derrotas |
 | :-: | :---------------------------- | :-------: | :------: |
-|  1  | 🥇 Las Mansiones de la Locura |     1     |    0     |
-|  2  | 🥈 Pandemic                   |     0     |    2     |
-|  2  | 🥈 Escape Tales: el despertar |     0     |    1     |
+|  1  | 🥇 Zombicide: Black Plague    |     2     |    0     |
+|  2  | 🥈 Las Mansiones de la Locura |     1     |    0     |
+|  3  | 🥉 Pandemic                   |     0     |    2     |
+|  3  | 🥉 Escape Tales: el despertar |     0     |    1     |
 
 ---
 
