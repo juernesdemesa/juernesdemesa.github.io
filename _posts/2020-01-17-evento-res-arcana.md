@@ -6,7 +6,7 @@ categories: [Juernes de Mesa]
 tags: [Res Arcana, sandcastlesgames, juernesdemesa]
 image: assets/images/posts/2020-01-17-evento-res-arcana/header.jpg
 description: "Evento: Res Arcana"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---

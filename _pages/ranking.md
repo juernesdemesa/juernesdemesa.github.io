@@ -11,8 +11,8 @@ comments: false
 | :-: | :---------- | :-------: |
 |  1  | 🥇 Gallardo |     8     |
 |  2  | 🥈 Elvira   |     3     |
+|  2  | 🥈 Fran     |     3     |
 |  3  | 🥉 Pedro    |     2     |
-|  3  | 🥉 Fran     |     2     |
 |  4  | Santi       |     1     |
 |  4  | Sara        |     1     |
 |  -  | Elena       |     0     |
@@ -35,9 +35,9 @@ comments: false
 
 |  #  | Nombre      | Asistencias |
 | :-: | :---------- | :---------: |
-|  1  | 🥇 Gallardo |     17      |
+|  1  | 🥇 Gallardo |     18      |
 |  2  | 🥈 Elvira   |     13      |
-|  3  | 🥉 Fran     |     10      |
+|  3  | 🥉 Fran     |     11      |
 |  3  | Sara        |      6      |
 |  4  | Pedro       |      4      |
 |  5  | Santi       |      2      |
