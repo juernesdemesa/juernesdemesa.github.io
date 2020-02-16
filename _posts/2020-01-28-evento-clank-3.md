@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📆 06/02/2020 - Clank!"
+title: "📆 27/02/2020 - Clank!"
 author: juernesdemesa
 categories: [Juernes de Mesa]
 tags: [clank, devir, juernesdemesa]
@@ -11,11 +11,11 @@ hidden: False
 rating: False
 ---
 
-¡Hola Juerneros! El próximo jueves 6 de febrero, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a [**Clank!**](https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure).
+¡Hola Juerneros! El próximo jueves 27 de febrero, tenemos un nuevo **Juernes de Mesa**. Esta vez, vamos a jugar a [**Clank!**](https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure).
 
 ## 📝 Ficha
 
-- 🗓️ 6 de febrero de 2020 - 18:00
+- 🗓️ 27 de febrero de 2020 - 18:00
 - 📍 [Júpiter Juegos Central](https://www.jupiterjuegos.com/tiendas/)
 - 🎲 Clank! Una aventura de construcción de mazos
 - 👥 2-4
