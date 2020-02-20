@@ -6,7 +6,7 @@ categories: [Juernes de Mesa]
 tags: [aventurerosaltren, devir, juernesdemesa]
 image: assets/images/posts/2020-01-27-evento-aventureros-al-tren/header.jpg
 description: "Evento - Aventureros a tren"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
