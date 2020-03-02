@@ -6,7 +6,7 @@ categories: [Juernes de Mesa]
 tags: [clank, devir, juernesdemesa]
 image: assets/images/posts/2019-09-03-evento-clank-2/header.jpg
 description: "Evento - Clank!"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
