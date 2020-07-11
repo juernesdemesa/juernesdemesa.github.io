@@ -66,7 +66,6 @@ function getGames(retries) {
     request.setRequestHeader("Accept", "application/json");
     request.send(null);
     var result = JSON.parse(request.responseText);
-    console.log(result.value);
     return result.value;
   } catch (e) {
     if (retries > 4) return [];
