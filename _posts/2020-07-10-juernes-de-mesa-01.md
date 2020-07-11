@@ -13,6 +13,12 @@ rating: False
 
 ¡Hola Juerneros! El jueves 9 de julio, pudimos disfrutar de un **Juernes de Mesa** muy especial: vinieron nuevos Juerneros. Estuvimos jugando a [Wignspan](https://boardgamegeek.com/boardgame/266192/wingspan) y a [La Isla de los Gatos](https://boardgamegeek.com/boardgame/281259/isle-cats)
 
+## 📺 Resumen
+
+Este ha sido un Juernes de Mesa muy especial porque **hemos conocido a nuevos jugones con la misma pasión por los juegos de mesa**. Por primera vez, tuvimos dos mesas para jugar y pudimos disfrutar el doble.
+
+Seguimos buscando gente para venir a jugar con nostros. [Aquí](/2020-03-10-i-want-you) tienes más información.
+
 ## 📝 Evento
 
 - 🗓️ 9 de julio de 2020 - 18:00
@@ -37,11 +43,5 @@ rating: False
 - ⚙️ Colocación de losetas
 
 ![La Isla de los Gatos](/assets/images/posts/2020-07-10-juernes-de-mesa-01/laisladelosgatos.jpg)
-
-## 📺 Resumen
-
-Este ha sido un Juernes de Mesa muy especial porque **hemos conocido a nuevos jugones con la misma pasión por los juegos de mesa**. Por primera vez, tuvimos dos mesas para jugar y pudimos disfrutar el doble.
-
-Seguimos buscando gente para venir a jugar con nostros. [Aquí](/2020-03-10-i-want-you) tienes más información.
 
 ¡Nos vemos en el futuro! 🦾

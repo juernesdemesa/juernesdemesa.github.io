@@ -1,6 +1,9 @@
 function printGames(games) {
-  games.sort(function(a, b) {
-    return a.rank - b.rank;
+  games.sort(function (a, b) {
+    return (
+      (a.rank != "Not Ranked" ? parseInt(a.rank) : 100000) -
+      (b.rank != "Not Ranked" ? parseInt(b.rank) : 100000)
+    );
   });
   let items = "";
   for (let i = 0; i < games.length; i++) {
