@@ -36,7 +36,7 @@ Este mes, la mención especial es para los tres juegos más jugados y que, adem�
 
 ![Marvel Champions](/assets/images/posts/2020-07-01-las-partidas-junio-20/marvel-champions.jpg)
 
-Gracias al _hype_ que ha producido en mi interior el podcast de [La Mano de Thanos](https://twitter.com/LaManodeThanos) y aprovechando **la salida de Doctor Strange y Viuda Negra**, hemos vuelto con más fuerza que nunca. Este mes **he jugado 17 partidas**.
+Gracias al _hype_ que ha producido en mi interior el podcast de [La Mano de Thanos](https://twitter.com/LaManodeThanos) y aprovechando **la salida de Doctor Strange y Viuda Negra**, hemos vuelto con más fuerza que nunca. Este mes **he jugado 47 partidas**.
 
 #### 📝 Ficha
 
@@ -48,7 +48,7 @@ Gracias al _hype_ que ha producido en mi interior el podcast de [La Mano de Than
 
 ### 😴 Onirim
 
-[Onirim](https://www.jupiterjuegos.com/juegos-de-mesa/onirim) ha sido una gran sorpresa. Lo **recomiendo mucho como juego solitario**, porque me parece asequible de ganar cuando ya has jugado unas cuantas partidas, pero que lo **puedes complicar lo que quieras con las 7 expansiones que trae el juego**. Además, estas expansiones te permiten aumentar la dificultad, pero poniendote diferentes retos y diferentes formas de jugar, por lo que aumenta al rejugabilidad. Este mes **he jugado 47 partidas**.
+[Onirim](https://www.jupiterjuegos.com/juegos-de-mesa/onirim) ha sido una gran sorpresa. Lo **recomiendo mucho como juego solitario**, porque me parece asequible de ganar cuando ya has jugado unas cuantas partidas, pero que lo **puedes complicar lo que quieras con las 7 expansiones que trae el juego**. Además, estas expansiones te permiten aumentar la dificultad, pero poniéndote diferentes retos y diferentes formas de jugar, por lo que aumenta al rejugabilidad. Este mes **he jugado 17 partidas**.
 
 ![Onirim](/assets/images/posts/2020-07-01-las-partidas-junio-20/onirim.jpg)
 
