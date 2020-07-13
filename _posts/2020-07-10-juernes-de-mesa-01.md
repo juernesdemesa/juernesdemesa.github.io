@@ -6,7 +6,7 @@ categories: [Juernes de Mesa]
 tags: [wingspan, la isla de los gatos, maldito games, juernesdemesa]
 image: assets/images/posts/2020-07-10-juernes-de-mesa-01/header.jpg
 description: "Juernes de Mesa"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---

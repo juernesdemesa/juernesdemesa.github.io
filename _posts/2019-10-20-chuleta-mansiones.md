@@ -15,7 +15,7 @@ rating: False
 
 El juego se desarrolla en una serie de rondas. Cada ronda consta de dos fases:
 
-- **Fase de los investigadores**: los investigadores s3e mueven, explorar o atacan alos monstruos.
+- **Fase de los investigadores**: los investigadores se mueven, exploran o atacan a los monstruos.
 - **Fase de los Mitos**: la aplicación determina las acciones de los Mitos.
 
 ## Fase de investigadores
