@@ -11,7 +11,9 @@ hidden: False
 rating: False
 ---
 
-## Objetivo
+Aquí tienes una nueva [Hoja de Ayuda](/hoja-de-ayuda), esta vez para [Marco Polo](https://boardgamegeek.com/boardgame/171623/voyages-marco-polo).
+
+## 🎯 Objetivo
 
 El juego se desarrolla durante 5 rondas. El objetivo es ser el jugador que consiga más puntos de victoria al final de la partida.
 
@@ -19,7 +21,7 @@ La **forma principal de conseguir puntos es cumpliendo los contratos**. Aunque t
 
 Por último, es interesante **llegar a Beijing** porque, además de **otorgar puntos de victoria** por construir un puesto comercial, nos permite **cambiar mercancías por más puntos de victoria**.
 
-## Puntuación
+## 🏆 Puntuación
 
 Recuento final:
 
@@ -30,7 +32,7 @@ Recuento final:
   - Cada **2 mercancías 1 punto de victoria** si tienes **puesto comercial en Beijing**
 - **7 puntos al jugador con más contratos** cumplidos.
 
-## Acciones
+## 🎲 Acciones
 
 - **Ir al bazar**: colocar los dados para **obtener recursos**.
 - **Coger un contrato**: colocar un dado para poder **elegir 1 o 2 contratos**.
@@ -43,7 +45,7 @@ Recuento final:
 
 **Nota:** Puedes ejecutar la **acción ocupada pagando tantas monedas como el resultado más bajo** de los dados utilizados. **No puede haber dados del mismo color en filas diferentes**.
 
-### Acciones extra
+## 🎲 Acciones Extra
 
 **Importante**: Estas acciones no cuentan como tu acción de turno.
 
@@ -56,7 +58,7 @@ Recuento final:
   - **Nota**: se lanza en el momento de comprarlo.
   - **Nota**: esta acción sólo se puede hacer **una vez por turno**.
 
-## Turno del jugador
+## 🎬 Turno del jugador
 
 El jugador **ejecuta 1 acción y todas las acciones extra** que desee en su turno.
 
@@ -67,16 +69,16 @@ El jugador **ejecuta 1 acción y todas las acciones extra** que desee en su turn
 - **Recuperar dados**
 - **Se lanzan todos los dados**: si un jugador saca menos de 15 recibe 1 camello por cada punto de diferencia hasta el 15.
 
-## Fin de ronda
+## 🔄 Fin de ronda
 
 - **Retirar contratos del tablero**
 - **Poner nuevos contratos**
 
-## Fin de la partida
+## 📊 Fin de la partida
 
 La **partida termina al acabar la quinta ronda**.
 
-## Empate
+## ⚖️ Empate
 
 Si hay empate, **gana el jugador con más camellos**. Si persiste el empate, se comparte la victoria.
 

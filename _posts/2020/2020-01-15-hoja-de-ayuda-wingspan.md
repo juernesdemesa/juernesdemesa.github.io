@@ -11,6 +11,8 @@ hidden: False
 rating: False
 ---
 
+Aquí tienes una nueva [Hoja de Ayuda](/hoja-de-ayuda), esta vez para [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan).
+
 ## 🎯 Objetivo
 
 El juego se desarrolla durante 4 rondas. El objetivo es ser el jugador que consiga más puntos de victoria al final de la partida.

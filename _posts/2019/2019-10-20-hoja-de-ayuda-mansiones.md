@@ -11,14 +11,20 @@ hidden: False
 rating: False
 ---
 
-## Rondas
+Aquí tienes una nueva [Hoja de Ayuda](/hoja-de-ayuda), esta vez para [Las Mansiones de la Locura](https://boardgamegeek.com/boardgame/205059/mansions-madness-second-edition).
+
+## 🎯 Objetivo
+
+El juego se va a ir jugando en diferentes rondas hasta que los investigadores completen el objetivo marcado por el escenario o fracasen en su intento.
+
+## 🔄 Rondas
 
 El juego se desarrolla en una serie de rondas. Cada ronda consta de dos fases:
 
 - **Fase de los investigadores**: los investigadores se mueven, exploran o atacan a los monstruos.
 - **Fase de los Mitos**: la aplicación determina las acciones de los Mitos.
 
-## Fase de investigadores
+## 🔍 Fase de investigadores
 
 Cada **investigadore puede realizar hasta 2 acciones**. Los investigadores se turnan como deseen.
 
@@ -50,7 +56,7 @@ El investigador puede **interactuar con objetos o personajes en su mismo espacio
 
 Algunos componentes requieren utilizar la aplicación. Para ello, debemos seleccionar el objecto desde el inventario.
 
-## Acción de ataque
+### Acción de ataque
 
 El investigador **selecciona en el cajón de monstruo, el monstuo al que quiere atacar**. Selecciona el tipo de ataque. Según el arma podrás atacar a los monstruos de tu espacio o a la distancia que indique el alcance del arma.
 
@@ -58,7 +64,7 @@ El investigador **selecciona en el cajón de monstruo, el monstuo al que quiere 
 
 Pasamos a la siguiente fase con el icono de Fin de fase en la apliación.
 
-## Fase de Mitos
+## 🐙 Fase de Mitos
 
 La aplicación genera efectos que los investigadores deben resolver.
 
@@ -74,17 +80,17 @@ La aplicación genera instrucciones para la activación de cada monstruo. Los **
 
 Los investigadores han de ejecutar una **tirada de Horror contra un único monstruo que esté a su alcance**. Contra el **monstruo con mayor puntuación de Horror**. Se selecciona en la aplicación desde el cajón de monstruos.
 
-## Daño y Horror
+## 🩸 Daño y Horror
 
 Los **investigadores pueden recibir Daño y Horror boca abajo o boca arriba** (por defecto boca arriba). Las cartas que se mantienen boca arriba ejercen un efecto continuo.
 
-## Herido
+## 🩹 Herido
 
 Si un **investigador recibe tantas cartas de Daño como su vida, recibe el estado de Herido** y descarta todas las cartas de Daño. Si un investigador Herido recibe tantos puntos de Daño como su vida, queda eliminado.
 
 **Importante**: un investigador Herido sólo puede realizar la acción de movimiento 1 vez por ronda.
 
-## Loco
+## 🧠 Loco
 
 Si un **investigador recibe tantas cartas de Horror como su Cordura, recibe el estado de Loco** y descarta todas las cartas de Horror. Si un investigador Loco recibe tantos puntos de Horror como su Cordura, queda eliminado.
 
@@ -92,19 +98,19 @@ Cuando un jugador adquiere el estado de Loco recibe una carta que deberá leer e
 
 **Importante**: en la carta de Loco, viene indicado el número mínimo de jugadores que se necesitan para esa carta. Si no hay suficientes investigadores, se descarta esa carta y se coge otra.
 
-## Eliminado
+## ❌ Eliminado
 
 Cuando un investigador queda Eliminado, suelta todas sus pertenencias. El resto de investigadores tienen una fase de investigadores adicional para tratar de completar la investigación.
 
 Se debe indicar _Investigador eliminado_ en el menú del juego para finalizar la partida.
 
-## Tiradas de atributo
+## 🎲 Tiradas de atributo
 
 Cuando se requiera, el investigador tendrá que realizar una tirada de atributo. Para ello **lanzará tantos dados como indique su atributo** (aunque puede sufrir modificadores). El **símbolo de estrella son éxitos, las lupas las puedes cambiar por éxito gastando una ficha de pista**.
 
 Con ';' se separa la cantidad de éxitos que tiene que obtener un investigador para completar una tirada.
 
-## Referencia
+## 📚 Referencia
 
 ### Evitar monstruo
 

@@ -11,6 +11,8 @@ hidden: False
 rating: False
 ---
 
+Aquí tienes una nueva [Hoja de Ayuda](/hoja-de-ayuda), esta vez para [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders).
+
 ## 🎯 Objetivo
 
 El juego se desarrolla en 3 eras. El objetivo es ser el jugador que consiga más puntos de victoria al final de la partida. Vamos a ir **seleccionando cartas para añadirlas a nuestra ciudad**. Hay diferentes formas de conseguir puntos en función del tipo de carta. También será importante ir **construyendo nuestra Maravilla** para obtener bonificaciones y puntos extra.
