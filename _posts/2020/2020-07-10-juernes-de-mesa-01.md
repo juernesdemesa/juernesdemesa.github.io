@@ -3,7 +3,7 @@ layout: post
 title: "🎲 Juernes de Mesa - 09/07/2020"
 author: juernesdemesa
 categories: [Juernes de Mesa]
-tags: [wingspan, la isla de los gatos, maldito games, juernesdemesa]
+tags: [wingspan, la isla de los gatos, maldito games, juernes de mesa]
 image: assets/images/posts/2020/2020-07-10-juernes-de-mesa-01/header.jpg
 description: "Juernes de Mesa"
 featured: False

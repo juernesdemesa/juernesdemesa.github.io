@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "🥩 La chuleta - Wingspan"
+title: "💡 Hoja de Ayuda - Wingspan"
 author: juernesdemesa
-categories: [LaChuleta]
-tags: [lachuleta, juernesdemesa]
+categories: [Hoja de Ayuda]
+tags: [hoja de ayuda, wingspan, maldito games]
 description: "La chuleta del Wingspan"
 image: assets/images/posts/2019/2019-10-31-evento-wingspan/header.png
 featured: False

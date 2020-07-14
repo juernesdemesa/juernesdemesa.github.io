@@ -2,8 +2,8 @@
 layout: post
 title: "📆 30/01/2020 - Res Arcana"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [Res Arcana, sandcastlesgames, juernesdemesa]
+categories: [Eventos]
+tags: [res arcana, sand castles games, eventos, juernes de mesa]
 image: assets/images/posts/2020/2020-01-17-evento-res-arcana/header.jpg
 description: "Evento: Res Arcana"
 featured: False

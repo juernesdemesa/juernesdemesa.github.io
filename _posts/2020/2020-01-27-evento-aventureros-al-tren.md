@@ -2,8 +2,8 @@
 layout: post
 title: "📆 20/02/2020 - Aventureros al Tren: Europa"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [aventurerosaltren, devir, juernesdemesa]
+categories: [Eventos]
+tags: [aventureros al tren, devir, eventos, juernes de mesa]
 image: assets/images/posts/2020/2020-01-27-evento-aventureros-al-tren/header.jpg
 description: "Evento - Aventureros a tren"
 featured: False

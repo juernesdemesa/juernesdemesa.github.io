@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "🥩 La chuleta - 7 Wonders"
+title: "💡 Hoja de Ayuda - 7 Wonders"
 author: juernesdemesa
-categories: [LaChuleta]
-tags: [lachuleta, juernesdemesa]
-description: "La chuleta del 7 Wonders"
+categories: [Hoja de Ayuda]
+tags: [hoja de ayuda, 7 wonders, asmodee]
+description: "La hoja de ayuda del 7 Wonders"
 image: assets/images/posts/2020/2020-01-21-chuleta-7-wonders/header.jpg
 featured: False
 hidden: False
