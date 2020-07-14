@@ -18,7 +18,7 @@
 
 5. Now browse to http://localhost:4000
 
-**Note:** you can build the site with draft using `--draft`. 
+**Note:** you can build the site with draft using `--draft`.
 
 `bundle exec jekyll serve --draft -d _site`
 
@@ -26,11 +26,15 @@
 
 [Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
 
+## Images
+
+Header: 960x320
+
 ### Copyright
 
 Copyright (C) 2019 Sal, https://www.wowthemes.net
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is _free_ under MIT license.
 
 <a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 

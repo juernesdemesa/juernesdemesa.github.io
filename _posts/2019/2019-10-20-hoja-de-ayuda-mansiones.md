@@ -11,7 +11,7 @@ hidden: False
 rating: False
 ---
 
-Aquí tienes una nueva [Hoja de Ayuda](/hoja-de-ayuda), esta vez para [Las Mansiones de la Locura](https://boardgamegeek.com/boardgame/205059/mansions-madness-second-edition).
+Aquí tenéis una nueva [Hoja de Ayuda](/hoja-de-ayuda), esta vez para [Las Mansiones de la Locura](https://boardgamegeek.com/boardgame/205059/mansions-madness-second-edition).
 
 ## 🎯 Objetivo
 
