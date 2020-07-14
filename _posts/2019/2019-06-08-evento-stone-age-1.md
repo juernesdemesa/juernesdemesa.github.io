@@ -2,8 +2,8 @@
 layout: post
 title: "📆 13/06/2019 - Stone Age"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [stone age, devir, juernesdemesa]
+categories: [Eventos]
+tags: [stone age, devir, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-06-08-evento-stone-age-1/header.jpg
 description: "Evento - Stone Age: La edad de piedra"
 featured: False

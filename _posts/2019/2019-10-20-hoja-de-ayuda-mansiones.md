@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "🥩 La chuleta - Las Mansiones de la Locura"
+title: "💡 Hoja de Ayuda - Las Mansiones de la Locura"
 author: juernesdemesa
-categories: [LaChuleta]
-tags: [lachuleta, juernesdemesa]
+categories: [Hoja de Ayuda]
+tags: [hoja de ayuda, las mansiones de la locura]
 description: "Las Mansiones de la Locura"
 image: assets/images/posts/2019/2019-10-20-guia-mansiones/header.jpg
 featured: False

@@ -2,8 +2,8 @@
 layout: post
 title: "👋 Nos vamos de vacaciones"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [vacaciones, juernesdemesa]
+categories: [Noticias]
+tags: [noticias, vacaciones, juernes de mesa]
 image: assets/images/posts/2019/2019-08-01-vacaciones/header.jpg
 description: "Vacaciones de verano"
 featured: False

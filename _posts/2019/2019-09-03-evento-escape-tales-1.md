@@ -2,8 +2,8 @@
 layout: post
 title: "🧐 24/09/2019 - Escape Tales: El despertar"
 author: juernesdemesa
-categories: [Juernes de Mesa Deluxe Edition]
-tags: [escapetales, juernesdemesa]
+categories: [Eventos, Deluxe Edition]
+tags: [escape tales, eventos, juernes de mesa, deluxe edition]
 image: assets/images/posts/2019/2019-09-04-evento-escape-tales-1/header.jpg
 description: "Evento - Escape Tales: El despertar"
 featured: False

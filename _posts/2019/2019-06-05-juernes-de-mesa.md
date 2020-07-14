@@ -2,8 +2,8 @@
 layout: post
 title: "Juernes de mesa"
 author: juernesdemesa
-categories: [General]
-tags: [general]
+categories: [Noticias]
+tags: [noticias, juernes de mesa]
 image: assets/images/posts/2019/2019-06-05-juernes-de-mesa/header.jpg
 description: "Post de presentación del grupo de juegos de mesa 'Juernes de mesa'"
 featured: False

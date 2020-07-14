@@ -2,8 +2,8 @@
 layout: post
 title: "📆 04/07/2019 - Pandemic"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [pandemic, zmangames, juernesdemesa]
+categories: [Eventos]
+tags: [pandemic, zmangames, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-06-24-evento-pandemic-1/header.png
 description: "Evento - Pandemic"
 featured: False

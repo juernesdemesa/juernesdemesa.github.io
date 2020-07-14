@@ -2,8 +2,8 @@
 layout: post
 title: "📆 17/10/2019 - Los viajes de Marco Polo"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [marcopolo, devir, juernesdemesa]
+categories: [Eventos]
+tags: [marco polo, devir, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-09-24-evento-marco-polo/header.jpg
 description: "Evento - Los viajes de Marco Polo"
 featured: False

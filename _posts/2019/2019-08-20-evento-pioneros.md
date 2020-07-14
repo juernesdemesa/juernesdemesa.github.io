@@ -2,8 +2,8 @@
 layout: post
 title: "📆 22/08/2019 - Los Pioneros"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [los pioneros, doit games, juernesdemesa]
+categories: [Eventos]
+tags: [los pioneros, doit games, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-08-20-evento-pioneros/header.jpg
 description: "Evento: Los Pioneros"
 featured: False

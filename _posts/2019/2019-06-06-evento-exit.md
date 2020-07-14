@@ -2,8 +2,8 @@
 layout: post
 title: "📆 06/06/2019 - Exit: El laboratorio secreto"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [exit, devir, evento]
+categories: [Eventos]
+tags: [exit, devir, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-06-06-evento-exit/header.jpg
 description: "Evento - Exit: El laboratorio secreto'"
 featured: False

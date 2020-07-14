@@ -2,8 +2,8 @@
 layout: post
 title: "📆 05/09/2019 - Clank!"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [clank, devir, juernesdemesa]
+categories: [Eventos]
+tags: [clank, devir, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-09-03-evento-clank-2/header.jpg
 description: "Evento - Clank!"
 featured: False

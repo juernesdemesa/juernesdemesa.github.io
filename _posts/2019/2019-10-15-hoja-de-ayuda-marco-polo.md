@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "🥩 La chuleta - Los viajes de Marco Polo"
+title: "💡 Hoja de Ayuda - Los viajes de Marco Polo"
 author: juernesdemesa
-categories: [LaChuleta]
-tags: [lachuleta, juernesdemesa]
-description: "Introducción a las guias"
+categories: [Hoja de Ayuda]
+tags: [hoja de ayuda, marco polo]
+description: "Hoja de ayuda de Los viajes de Marco Polo"
 image: assets/images/posts/2019/2019-10-15-guia-marco-polo/header.jpg
 featured: False
 hidden: False

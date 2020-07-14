@@ -2,8 +2,8 @@
 layout: post
 title: "📆 23/01/2020 - 7 Wonders"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [7 wonders, asmodee, juernesdemesa]
+categories: [Eventos]
+tags: [7 wonders, asmodee, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-10-31-evento-seven-wonders/header.jpg
 description: "Evento: 7 Wonders"
 featured: False

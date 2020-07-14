@@ -2,8 +2,8 @@
 layout: post
 title: "📆 31/10/2019 - Carnaval de Monstruos"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [castillos de borgoña, maldito games, juernesdemesa]
+categories: [Eventos]
+tags: [castillos de borgoña, maldito games, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-10-19-evento-carnaval-monstruos/header.jpg
 description: "Evento: Carnaval de Monstruos"
 featured: False

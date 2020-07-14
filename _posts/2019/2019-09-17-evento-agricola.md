@@ -2,8 +2,8 @@
 layout: post
 title: "📆 19/09/2019 - Agricola"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [agricola, devir, juernesdemesa]
+categories: [Eventos]
+tags: [agricola, devir, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-09-19-evento-agricola/header.jpg
 description: "Evento - Agricola"
 featured: False

@@ -2,8 +2,8 @@
 layout: post
 title: "📆 11/07/2019 - Cytosis"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [cytosis, genius games, juernesdemesa]
+categories: [Eventos]
+tags: [cytosis, genius games, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-07-09-evento-cytosis/header.jpg
 description: "Evento - Cytosis"
 featured: False

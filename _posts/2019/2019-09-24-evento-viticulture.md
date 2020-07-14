@@ -2,8 +2,8 @@
 layout: post
 title: "📆 26/09/2019 - Viticulture"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [viticulture, malditogames, juernesdemesa]
+categories: [Eventos]
+tags: [viticulture, maldito games, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-09-24-evento-viticulture/header.jpg
 description: "Evento - Viticulture"
 featured: False

@@ -2,8 +2,8 @@
 layout: post
 title: "🧐 22/10/2019 - Las Mansiones de la Locura: el ciclo de la eternidad"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [mansiones de la locura, juernesdemesa]
+categories: [Eventos, Deluxe Edition]
+tags: [mansiones de la locura, eventos, juernes de mesa, deluxe edition]
 image: assets/images/posts/2019/2019-10-20-evento-mansiones/header.png
 description: "Evento: Las Mansiones de la Locura: el ciclo de la eternidad"
 featured: False

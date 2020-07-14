@@ -2,8 +2,8 @@
 layout: post
 title: "📆 16/01/2020 - Wingspan"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [wingspan, maldito games, juernesdemesa]
+categories: [Eventos]
+tags: [wingspan, maldito games, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-10-31-evento-wingspan/header.png
 description: "Evento: Wingspan"
 featured: False

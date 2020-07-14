@@ -2,7 +2,7 @@
 layout: post
 title: "🤑 Nuevos Party Games"
 author: juernesdemesa
-categories: [Lista de la compra]
+categories: [Lista de la Compra]
 tags:
   [código secreto, dixit, insider, sospechosos inhabituales, lista de la compra]
 image: assets/images/posts/2019/2019-06-11-nuevos-party-games/header.jpg

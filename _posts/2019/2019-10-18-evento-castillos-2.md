@@ -2,8 +2,8 @@
 layout: post
 title: "📆 07/11/2019 - Los Castillos de Borgoña"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [castillos de borgoña, maldito games, juernesdemesa]
+categories: [Eventos]
+tags: [castillos de borgoña, maldito games, eventos, juernes de mesa]
 image: assets/images/posts/2019/2019-07-19-evento-castillos/header.jpg
 description: "Evento: Los Castillos de Borgoña"
 featured: False

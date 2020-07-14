@@ -2,8 +2,14 @@
 layout: post
 title: "📆 24/10/2019 - Saqueadores del Mar del Norte"
 author: juernesdemesa
-categories: [Juernes de Mesa]
-tags: [saqueadores del mar del norte, ediciones primigenio, juernesdemesa]
+categories: [Eventos]
+tags:
+  [
+    saqueadores del mar del norte,
+    ediciones primigenio,
+    eventos,
+    juernes de mesa,
+  ]
 image: assets/images/posts/2019/2019-07-14-evento-saqueadores/header.jpg
 description: "Evento - Saqueadores del Mar del Norte"
 featured: False

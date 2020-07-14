@@ -3,7 +3,7 @@ layout: post
 title: "🎁 Un regalito muy especial: Los Castillos de Borgoña"
 author: juernesdemesa
 categories: [Conociendo]
-tags: [castillos de borgoña, maldito games, juernesdemesa]
+tags: [castillos de borgoña, maldito games, conociendo]
 image: assets/images/posts/2019/2019-07-17-regalo-castillos/header.jpg
 description: "Un regalito muy especial: Los Castillos de Borgoña"
 featured: False
