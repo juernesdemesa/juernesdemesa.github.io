@@ -32,7 +32,7 @@ Este mes, la mención especial es para los tres juegos más jugados y que, adem�
 
 ### 🦸🏼‍♂️ Marvel Champions
 
-[Marvel Champions](https://www.jupiterjuegos.com/juegos-de-mesa/marvel-champions-el-juego-de-cartas) es un juego que tengo, prácticamente, desde que salió (aunque intenté resistirme...). Pero hasta este mes me daba bastante reparo crear mis propios mazos y bastante pereza prepararlo para jugar en solitario.
+[Marvel Champions](https://boardgamegeek.com/boardgame/285774/marvel-champions-card-game) es un juego que tengo, prácticamente, desde que salió (aunque intenté resistirme...). Pero hasta este mes me daba bastante reparo crear mis propios mazos y bastante pereza prepararlo para jugar en solitario.
 
 ![Marvel Champions](/assets/images/posts/2020/2020-07-01-las-partidas-junio-20/marvel-champions.jpg)
 
@@ -46,9 +46,11 @@ Gracias al _hype_ que ha producido en mi interior el podcast de [La Mano de Than
 - 👶🏼 14+
 - ⚙️ LCG, gestión de mano
 
+[![Banner Júpiter Juegos](/assets/images/blog/banners/jupiter.jpg)](https://www.jupiterjuegos.com/juegos-de-mesa/marvel-champions-el-juego-de-cartas)
+
 ### 😴 Onirim
 
-[Onirim](https://www.jupiterjuegos.com/juegos-de-mesa/onirim) ha sido una gran sorpresa. Lo **recomiendo mucho como juego solitario**, porque me parece asequible de ganar cuando ya has jugado unas cuantas partidas, pero que lo **puedes complicar lo que quieras con las 7 expansiones que trae el juego**. Además, estas expansiones te permiten aumentar la dificultad, pero poniéndote diferentes retos y diferentes formas de jugar, por lo que aumenta al rejugabilidad. Este mes **he jugado 17 partidas**.
+[Onirim](https://boardgamegeek.com/boardgame/156336/onirim-second-edition) ha sido una gran sorpresa. Lo **recomiendo mucho como juego solitario**, porque me parece asequible de ganar cuando ya has jugado unas cuantas partidas, pero que lo **puedes complicar lo que quieras con las 7 expansiones que trae el juego**. Además, estas expansiones te permiten aumentar la dificultad, pero poniéndote diferentes retos y diferentes formas de jugar, por lo que aumenta al rejugabilidad. Este mes **he jugado 17 partidas**.
 
 ![Onirim](/assets/images/posts/2020/2020-07-01-las-partidas-junio-20/onirim.jpg)
 
@@ -64,9 +66,11 @@ Este juego está disponible como aplicación para móviles. Pero para mi gusto, 
 - 👶🏼 10+
 - ⚙️ Gestión de mano
 
+[![Banner Júpiter Juegos](/assets/images/blog/banners/jupiter.jpg)](https://www.jupiterjuegos.com/juegos-de-mesa/onirim)
+
 ### 🏝️ Viernes
 
-Otro juego que tiene aplicación móvil, pero que yo prefiero jugar en físico. [Viernes](https://www.jupiterjuegos.com/juegos-de-mesa/viernes) es un juego en solitario que, a diferencia de Onirim, es bastante difícil de ganar. Este mes **he jugado 4 partidas** y he conseguido 1 victoria.
+Otro juego que tiene aplicación móvil, pero que yo prefiero jugar en físico. [Viernes](https://boardgamegeek.com/boardgame/43570/friday) es un juego en solitario que, a diferencia de Onirim, es bastante difícil de ganar. Este mes **he jugado 4 partidas** y he conseguido 1 victoria.
 
 ![Viernes](/assets/images/posts/2020/2020-07-01-las-partidas-junio-20/viernes.jpg)
 
@@ -79,6 +83,8 @@ Aunque durante **las primeras partidas parece un juego imposible ganar**, con el
 - ⏱ 25
 - 👶🏼 13+
 - ⚙️ Deck Building
+
+[![Banner Júpiter Juegos](/assets/images/blog/banners/jupiter.jpg)](https://www.jupiterjuegos.com/juegos-de-mesa/viernes)
 
 Estas han sido las partidas del mes de junio, nos vemos el mes que viene con más y mejores partidas 😁
 
