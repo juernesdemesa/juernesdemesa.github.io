@@ -219,6 +219,27 @@
     <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
     {% endif %}
 
+    <script>
+        function toggle(element) {
+            if (element.style.display === "none") {
+                element.style.display = "block";
+            } else {
+                element.style.display = "none";
+            }
+        }
+
+        function showChat() {
+        var chat = document.getElementById("chatbot");
+        var closeButton = document.getElementById("closeButton");
+        var showButton = document.getElementById("showButton");
+        toggle(chat)
+        toggle(closeButton)
+        toggle(showButton)
+    }
+    </script>
+    <iframe id="chatbot" src='https://webchat.botframework.com/embed/juernesdemesa-chatbot?s=aqdBkLVMCaY.5LkyQPjGG6k_DsvzBCWLkkmKmUHtHuRXQAKKSC_u4Sk' style="display: none;" class="chatbot"></iframe>
+    <button id="closeButton" class="btn chatbot-close-button" onclick="showChat()" style="display: none;">❌ Cerrar</button>
+    <button id="showButton" class="btn chatbot-button" onclick="showChat()">💬 Chat</button>
 </body>
 
 </html>
