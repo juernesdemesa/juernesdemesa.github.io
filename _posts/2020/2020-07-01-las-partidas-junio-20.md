@@ -6,7 +6,7 @@ categories: [Partidas del mes]
 tags: [partidas del mes, marvel champions, onirim, viernes, junio]
 image: assets/images/posts/2020/2020-07-01-las-partidas-junio-20/header.jpg
 description: "Partidas del mes de junio de 2020"
-featured: True
+featured: False
 hidden: False
 rating: False
 ---
